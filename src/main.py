@@ -1,72 +1,155 @@
-import logging
-import sys
-import os
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-from src.job_scraper import JobScraper
-from src.job_filter import JobFilter
-from src.job_formatter import JobFormatter
-from src.job_categories import JOB_CATEGORIES
-import json
+import csv
+from jobspy import scrape_jobs
 import pandas as pd
+from datetime import datetime, timedelta
+import os
+import re
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
+def extract_job_type(title):
+    types = ["INTERN", "CO-OP", "FULL-TIME", "PART-TIME"]
+    for job_type in types:
+        if job_type.lower() in title.lower():
+            return job_type
+    return "N/A"
 
-def save_to_file(content, file_path):
-    with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(content)
-    logger.info(f"Saved formatted jobs to {file_path}")
+def format_job_info(row):
+    title = row['title'].split('(')[0].strip()
+    location = row['location'] if pd.notna(row['location']) else "N/A"
+    job_type = row['job_type'] if pd.notna(row['job_type']) else extract_job_type(row['title'])
+    date_posted = row['date_posted'] if pd.notna(row['date_posted']) else "N/A"
+    job_url = row['job_url'] if pd.notna(row['job_url']) else "N/A"
+
+    return f"""🏢 Company: {row['company']}
+💼 岗位: {title}
+📍 地点: {location}
+📅 发布日期: {date_posted}{' 🔥' if (datetime.now().date() - datetime.strptime(str(date_posted), '%Y-%m-%d').date()).days < 2 else ''}
+👋 类型: {job_type}
+🔗 Link: {job_url}
+----------------------------
+"""
+
+def is_recent(date_posted):
+    if pd.isna(date_posted):
+        return False
+    today = datetime.now().date()
+    four_days_ago = today - timedelta(days=4)
+    return str(date_posted) >= str(four_days_ago)
+
+def run_job_search(category, search_terms, location):
+    all_jobs = pd.DataFrame()
+    
+    for term in search_terms:
+        jobs = scrape_jobs(
+            site_name=["indeed", "linkedin", "glassdoor"],
+            search_term=term,
+            location=location,
+            results_wanted=4,
+            hours_old=72,
+            country_indeed='USA',
+        )
+        all_jobs = pd.concat([all_jobs, jobs], ignore_index=True)
+    
+    print(f"Found {len(all_jobs)} jobs for {category}")
+    
+    if all_jobs.empty:
+        print("----------WARNING-----------")
+        print(f"No jobs found for {category}. Skipping further processing.")
+        return all_jobs
+
+    # Remove duplicates
+    all_jobs.drop_duplicates(subset=['job_url'], inplace=True)
+    
+    # Check if 'date_posted' column exists
+    if 'date_posted' not in all_jobs.columns:
+        print(f"Warning: 'date_posted' column not found for {category}. Skipping filtering.")
+        filtered_jobs = all_jobs
+    else:
+        # Filter recent jobs
+        filtered_jobs = all_jobs[all_jobs['date_posted'].apply(is_recent)]
+    
+    # Save raw results
+    today = datetime.now().strftime('%Y-%m-%d')
+    raw_file = f'raw_jobs_{category}_{today}.csv'
+    raw_path = os.path.join('jobs', raw_file)
+    all_jobs.to_csv(raw_path, quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False)
+    
+    # Format and save filtered results
+    formatted_jobs = f"📢 今天的{category}工作机会来啦! 快去Apply👉  \n 时间: {today} \n----------------------------\n\n"
+    formatted_jobs += filtered_jobs.apply(format_job_info, axis=1).str.cat(sep='\n')
+    
+    formatted_file = f'formatted_jobs_{category}_{today}.txt'
+    formatted_path = os.path.join('jobs', formatted_file)
+    with open(formatted_path, "w", encoding='utf-8') as f:
+        f.write(formatted_jobs)
+    
+    print(f"{category} job information saved to {raw_path} and {formatted_path}")
+    return all_jobs
 
 def main():
-    try:
-        # 读取搜索词配置
-        with open('configs/search_terms.json', 'r') as f:
-            search_terms = json.load(f)
+    # Ensure output directory exists
+    if not os.path.exists('jobs'):
+        os.makedirs('jobs')
 
-        # 初始化 JobScraper
-        scraper = JobScraper()
+    # Define search categories and corresponding precise search terms
+    categories = {
+        "软件工程": [
+            '"Software Engineer Intern"',
+            '"Software Developer Intern"',
+            '"Programmer Intern"',
+            '"Web Developer Intern"',
+            '"Mobile App Developer Intern"'
+        ],
+        "数据科学": [
+            '"Data Scientist Intern"',
+            '"Data Analyst Intern"',
+            '"Machine Learning Intern"',
+            '"Big Data Intern"'
+        ],
+        "人工智能": [
+            '"AI Intern"',
+            '"Artificial Intelligence Intern"',
+            '"Deep Learning Intern"',
+            '"NLP Intern"',
+            '"Computer Vision Intern"'
+        ],
+        "音频工程": [
+            '"Audio Engineer Intern"',
+            '"Sound Engineer Intern"',
+        ],
+        "游戏开发": [
+            '"Game Developer Intern"',
+            '"Game Programmer Intern"',
+            '"Game Designer Intern"',
+            '"Game Animator Intern"'
+        ],
+        "商业分析": [
+            '"Business Analyst Intern"',
+            '"Market Research Intern"',
+            '"Financial Analyst Intern"',
+            '"Operations Research Intern"'
+        ],
 
-        all_jobs = []
+    }
 
-        # 对每个类别进行搜索
-        for category in search_terms.keys():
-            logger.info(f"Scraping jobs for category: {category}")
-            jobs = scraper.scrape_jobs(category)
-            all_jobs.append(jobs)
+    # Set location
+    location = "USA"
 
-        # 合并所有类别的工作
-        all_jobs_df = pd.concat(all_jobs, ignore_index=True)
+    # Perform search for each category
+    all_results = pd.DataFrame()
+    for category, search_terms in categories.items():
+        category_jobs = run_job_search(category, search_terms, location)
+        all_results = pd.concat([all_results, category_jobs], ignore_index=True)
+    
+    if all_results.empty:
+        print("No jobs found for any category or location.")
+        return
 
-        # 保存到 CSV 文件
-        scraper.save_jobs_to_csv(all_jobs_df)
-
-        # 初始化 JobFilter
-        job_filter = JobFilter()
-
-        # 过滤和显示每个类别的工作
-        for category in JOB_CATEGORIES:
-            filtered_jobs = job_filter.filter_jobs(category)
-            logger.info(f"Filtered {len(filtered_jobs)} jobs for {category}")
-
-            # 格式化并保存每个类别的工作
-            if not filtered_jobs.empty:
-                formatted_jobs = JobFormatter.format_all_jobs(filtered_jobs)
-                output_file_path = os.path.join('jobs', f'formatted_{category}_jobs.txt')
-                save_to_file(formatted_jobs, output_file_path)
-
-        # 获取所有类别的过滤后的工作
-        all_filtered_jobs = job_filter.filter_jobs()
-        logger.info(f"Total filtered jobs across all categories: {len(all_filtered_jobs)}")
-
-        # 格式化并保存所有过滤后的工作
-        if not all_filtered_jobs.empty:
-            all_formatted_jobs = JobFormatter.format_all_jobs(all_filtered_jobs)
-            all_output_file_path = os.path.join('jobs', 'formatted_all_jobs.txt')
-            save_to_file(all_formatted_jobs, all_output_file_path)
-
-    except Exception as e:
-        logger.exception(f"An error occurred in main: {str(e)}")
+    # Save all results
+    today = datetime.now().strftime('%Y-%m-%d')
+    all_results_file = f'all_jobs_{today}.csv'
+    all_results_path = os.path.join('jobs', all_results_file)
+    all_results.to_csv(all_results_path, quoting=csv.QUOTE_NONNUMERIC, escapechar="\\", index=False)
+    print(f"All job information saved to {all_results_path}")
 
 if __name__ == "__main__":
     main()

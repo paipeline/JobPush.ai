@@ -9,12 +9,13 @@ const wechaty = WechatyBuilder.build();
 
 function displayStartupBanner() {
   const banner = `
-  ____    __  __    _    _     _     ____   ___ _____
- / ___|  |  \\/  |  / \\  | |   | |   | __ ) / _ \\_   _|
- \\___ \\  | |\\/| | / _ \\ | |   | |   |  _ \\| | | || |
-  ___) | | |  | |/ ___ \\| |___| |___| |_) | |_| || |
- |____/  |_|  |_/_/   \\_\\_____|_____|____/ \\___/ |_|
-
+     _    ___ ___      _     ____        _   
+    / \\  |_ _|_ _|    | |   | __ )  ___ | |_ 
+   / _ \\  | | | |  _  | |   |  _ \\ / _ \\| __|
+  / ___ \\ | | | | | |_| |   | |_) | (_) | |_ 
+ /_/   \\_\\___|___| \\___/    |____/ \\___/ \\__|
+                                             
+  Your AI-powered Job Search Assistant
 `;
 
   console.log('\x1b[36m%s\x1b[0m', banner);
@@ -42,6 +43,24 @@ wechaty
 displayStartupBanner();
 wechaty.start();
 
+async function sendJobUpdate(room: Room, filePath: string, category: string) {
+  try {
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    // 将文件内容分块发送，每块不超过4000字符
+    const chunkSize = 4000;
+    for (let i = 0; i < fileContent.length; i += chunkSize) {
+      const chunk = fileContent.slice(i, i + chunkSize);
+      await room.say(chunk);
+      // 添加短暂延迟，避免消息发送过快
+      await new Promise(resolve => setTimeout(resolve, 1000));
+    }
+    
+    console.log(`已发送 ${category} 工作信息到测试群`);
+  } catch (error) {
+    console.error(`读取或发送 ${category} 文件内容失败:`, error);
+  }
+}
+
 async function onLogin(user: Contact) {
   console.log(`用户 ${user} 登录成功`);
   
@@ -50,23 +69,35 @@ async function onLogin(user: Contact) {
   
   if (room) {
     console.log('找到了"测试群"');
-    const filePath = path.join(__dirname, 'jobs', 'filtered_recent_jobs.txt');
+    const jobsDir = path.join(__dirname, 'jobs');
     
-    // 监视文件变化
-    fs.watch(filePath, async (eventType, filename) => {
-      if (eventType === 'change') {
-        try {
-          const fileContent = fs.readFileSync(filePath, 'utf-8');
-          await room.say('新的工作机会更新：');
-          await room.say(fileContent);
-          console.log('已发送 filtered_recent_jobs 文件内容到测试群');
-        } catch (error) {
-          console.error('读取或发送文件内容失败:', error);
+    // 记录已处理的文件
+    const processedFiles = new Set();
+
+    // 监视 jobs 目录
+    fs.watch(jobsDir, async (eventType, filename) => {
+      if (eventType === 'rename' && filename.startsWith('formatted_jobs_') && filename.endsWith('.txt')) {
+        const filePath = path.join(jobsDir, filename);
+        
+        // 检查文件是否存在（用于区分新增和删除）
+        if (fs.existsSync(filePath) && !processedFiles.has(filename)) {
+          try {
+            // 等待文件写入完成
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            
+            const category = filename.split('_')[2]; // 提取类别名称
+            await sendJobUpdate(room, filePath, category);
+            
+            // 将文件标记为已处理
+            processedFiles.add(filename);
+          } catch (error) {
+            console.error('处理新文件失败:', error);
+          }
         }
       }
     });
     
-    console.log(`正在监视文件: ${filePath}`);
+    console.log(`正在监视目录: ${jobsDir}`);
   } else {
     console.log('未找到"测试群"');
   }
