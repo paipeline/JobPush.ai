@@ -1,0 +1,29 @@
+{
+  "software_engineering": [
+    "software engineer",
+    "software developer",
+    "full stack",
+    "backend",
+    "frontend",
+    "web developer"
+  ],
+  "data_science": [
+    "data scientist",
+    "machine learning",
+    "data analyst",
+    "AI engineer",
+    "big data"
+  ],
+  "mechanical_engineering": [
+    "mechanical engineer",
+    "CAD designer",
+    "robotics engineer",
+    "product design"
+  ],
+  "electrical_engineering": [
+    "electrical engineer",
+    "electronics engineer",
+    "embedded systems",
+    "VLSI design"
+  ]
+}
