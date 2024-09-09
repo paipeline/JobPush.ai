@@ -1,29 +1,64 @@
 {
   "software_engineering": [
-    "software engineer",
-    "software developer",
-    "full stack",
-    "backend",
-    "frontend",
-    "web developer"
+    "entry level software engineer",
+    "junior developer",
+    "software engineering intern"
   ],
   "data_science": [
-    "data scientist",
-    "machine learning",
-    "data analyst",
-    "AI engineer",
-    "big data"
+    "junior data analyst",
+    "data science intern",
+    "entry level data scientist"
   ],
-  "mechanical_engineering": [
-    "mechanical engineer",
-    "CAD designer",
-    "robotics engineer",
-    "product design"
+  "ai_and_agent_engineering": [
+    "AI research intern",
+    "junior machine learning engineer",
+    "entry level NLP engineer"
   ],
   "electrical_engineering": [
-    "electrical engineer",
-    "electronics engineer",
-    "embedded systems",
-    "VLSI design"
+    "entry level electrical engineer",
+    "electrical engineering intern",
+    "junior electrical designer"
+  ],
+  "marketing": [
+    "marketing specialist",
+    "digital marketing",
+    "brand manager",
+    "social media manager",
+    "content strategist"
+  ],
+  "finance": [
+    "financial analyst",
+    "investment banker",
+    "accountant",
+    "financial planner",
+    "risk analyst"
+  ],
+  "psychology": [
+    "psychologist",
+    "counselor",
+    "mental health therapist",
+    "behavioral analyst",
+    "clinical psychologist"
+  ],
+  "business_administration": [
+    "business analyst",
+    "product manager",
+    "operations manager",
+    "management consultant",
+    "business development"
+  ],
+  "law": [
+    "lawyer",
+    "attorney",
+    "legal counsel",
+    "paralegal",
+    "legal analyst"
+  ],
+  "graphic_design": [
+    "graphic designer",
+    "UI designer",
+    "UX designer",
+    "visual artist",
+    "creative director"
   ]
 }

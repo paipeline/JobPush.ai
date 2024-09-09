@@ -1,89 +1,72 @@
-import csv
-from jobspy import scrape_jobs
-import pandas as pd
-from datetime import datetime, timedelta
-import re
+import logging
+import sys
 import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
-def extract_location(title):
-    match = re.search(r'\((.*?)\)', title)
-    return match.group(1) if match else "N/A"
+from src.job_scraper import JobScraper
+from src.job_filter import JobFilter
+from src.job_formatter import JobFormatter
+from src.job_categories import JOB_CATEGORIES
+import json
+import pandas as pd
 
-def extract_job_type(title):
-    types = ["INTERN", "CO-OP", "FULL-TIME", "PART-TIME"]
-    for job_type in types:
-        if job_type.lower() in title.lower():
-            return job_type
-    return "N/A"
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
-def format_job_info(row):
-    title = row['title'].split('(')[0].strip()
-    location = row['location'] if pd.notna(row['location']) else "N/A"
-    job_type = row['job_type'] if pd.notna(row['job_type']) else extract_job_type(row['title'])
-    date_posted = row['date_posted'] if pd.notna(row['date_posted']) else "N/A"
-    job_url = row['job_url'] if pd.notna(row['job_url']) else "N/A"
+def save_to_file(content, file_path):
+    with open(file_path, 'w', encoding='utf-8') as f:
+        f.write(content)
+    logger.info(f"Saved formatted jobs to {file_path}")
 
-    return f"""🏢 公司: {row['company']}
-💼 职位: {title}
-📍 地点: {location}
-📅 发布日期: {date_posted}{' 🔥' if (datetime.now().date() - datetime.strptime(str(date_posted), '%Y-%m-%d').date()).days < 2 else ''}
-🧢 类型: {job_type}
-🔗 链接: {job_url}
-----------------------------
-"""
+def main():
+    try:
+        # 读取搜索词配置
+        with open('configs/search_terms.json', 'r') as f:
+            search_terms = json.load(f)
 
-def is_recent(date_posted):
-    if pd.isna(date_posted):
-        return False
-    today = datetime.now().date()
-    two_days_ago = today - timedelta(days=4)
-    return str(date_posted) >= str(two_days_ago)
+        # 初始化 JobScraper
+        scraper = JobScraper()
 
-def is_relevant(title):
-    keywords = ['software developer', 'data science', 'intern', 'co-op']
-    return any(keyword in title.lower() for keyword in keywords)
+        all_jobs = []
 
-# 确保 jobs 文件夹存在
-if not os.path.exists('jobs'):
-    os.makedirs('jobs')
+        # 对每个类别进行搜索
+        for category in search_terms.keys():
+            logger.info(f"Scraping jobs for category: {category}")
+            jobs = scraper.scrape_jobs(category)
+            all_jobs.append(jobs)
 
-# 抓取工作信息
-jobs = scrape_jobs(
-    site_name=["indeed", "linkedin", "glassdoor"],
-    search_term="software engineer intern",
-    results_wanted=50,
-    hours_old=42,
-    country_indeed='USA',
-)
+        # 合并所有类别的工作
+        all_jobs_df = pd.concat(all_jobs, ignore_index=True)
 
-print(f"Found {len(jobs)} jobs")
+        # 保存到 CSV 文件
+        scraper.save_jobs_to_csv(all_jobs_df)
 
-jobs_file_path = os.path.join('jobs', 'jobs.csv')
-jobs.to_csv(jobs_file_path, index=False)
-print(f"Saved scraped jobs to {jobs_file_path}")
-jobs = pd.read_csv(jobs_file_path)
+        # 初始化 JobFilter
+        job_filter = JobFilter()
 
-print(f"Found {len(jobs)} jobs")
+        # 过滤和显示每个类别的工作
+        for category in JOB_CATEGORIES:
+            filtered_jobs = job_filter.filter_jobs(category)
+            logger.info(f"Filtered {len(filtered_jobs)} jobs for {category}")
 
-# 过滤和格式化工作信息
-filtered_jobs = jobs[['title', 'company', 'location', 'job_type', 'date_posted', 'description', 'job_url']].copy()
+            # 格式化并保存每个类别的工作
+            if not filtered_jobs.empty:
+                formatted_jobs = JobFormatter.format_all_jobs(filtered_jobs)
+                output_file_path = os.path.join('jobs', f'formatted_{category}_jobs.txt')
+                save_to_file(formatted_jobs, output_file_path)
 
-# 只保留最近两天发布的相关工作
-filtered_jobs = filtered_jobs[
-    filtered_jobs['date_posted'].apply(is_recent) & 
-    filtered_jobs['title'].apply(is_relevant)
-]
+        # 获取所有类别的过滤后的工作
+        all_filtered_jobs = job_filter.filter_jobs()
+        logger.info(f"Total filtered jobs across all categories: {len(all_filtered_jobs)}")
 
-# 格式化输出
-formatted_jobs = f"📢新的工作机会来啦! 📢今天日期: {datetime.now().strftime('%Y-%m-%d')}\n----------------------------\n\n"
-formatted_jobs += filtered_jobs.apply(format_job_info, axis=1).str.cat(sep='\n')
-print(formatted_jobs)
+        # 格式化并保存所有过滤后的工作
+        if not all_filtered_jobs.empty:
+            all_formatted_jobs = JobFormatter.format_all_jobs(all_filtered_jobs)
+            all_output_file_path = os.path.join('jobs', 'formatted_all_jobs.txt')
+            save_to_file(all_formatted_jobs, all_output_file_path)
 
-# 保存过滤后的工作到文本文件
-output_file_path = os.path.join('jobs', 'filtered_recent_jobs.txt')
-with open(output_file_path, "w", encoding='utf-8') as f:
-    f.write(formatted_jobs)
+    except Exception as e:
+        logger.exception(f"An error occurred in main: {str(e)}")
 
-print(f"Filtered recent jobs saved to {output_file_path}")
-
-
+if __name__ == "__main__":
+    main()

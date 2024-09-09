@@ -1,9 +1,10 @@
 import os
 
 def ensure_directory_exists(directory):
-    # 确保目录存在的代码
-    pass
+    if not os.path.exists(directory):
+        os.makedirs(directory)
 
 def save_to_file(content, file_path):
-    # 保存内容到文件的代码
-    pass
+    with open(file_path, "w", encoding='utf-8') as f:
+        f.write(content)
+    print(f"Content saved to {file_path}")
