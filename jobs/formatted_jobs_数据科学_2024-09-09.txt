@@ -10,14 +10,6 @@
 🔗 Link: https://www.indeed.com/viewjob?jk=645de9b1dd769efc
 ----------------------------
 
-🏢 Company: Alfa Laval
-💼 岗位: Data Analyst Intern
-📍 地点: Richmond, VA
-📅 发布日期: 2024-09-09 🔥
-👋 类型: INTERN
-🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439550169
-----------------------------
-
 🏢 Company: Dewberry
 💼 岗位: GIS Data Analyst Intern
 📍 地点: Fairfax, VA
@@ -26,20 +18,28 @@
 🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009438765109
 ----------------------------
 
-🏢 Company: Ahold Delhaize USA
-💼 岗位: Finance Data Analyst Intern
-📍 地点: Quincy, MA
-📅 发布日期: 2024-09-09 🔥
-👋 类型: INTERN
-🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439007454
-----------------------------
-
 🏢 Company: Equifax
 💼 岗位: Data Analyst Intern
 📍 地点: Atlanta, GA
 📅 发布日期: 2024-09-07
 👋 类型: INTERN
 🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009437777700
+----------------------------
+
+🏢 Company: Advanced Micro Devices, Inc
+💼 岗位: Data Analyst Intern/Co-Op
+📍 地点: Santa Clara, CA
+📅 发布日期: 2024-09-07
+👋 类型: INTERN
+🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009438004369
+----------------------------
+
+🏢 Company: HUB International
+💼 岗位: Data Analyst Intern
+📍 地点: Cincinnati, OH
+📅 发布日期: 2024-09-07
+👋 类型: INTERN
+🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009437841648
 ----------------------------
 
 🏢 Company: Alfa Laval
@@ -88,6 +88,14 @@
 📅 发布日期: 2024-09-07
 👋 类型: INTERN
 🔗 Link: https://www.linkedin.com/jobs/view/4017870930
+----------------------------
+
+🏢 Company: AMD
+💼 岗位: Data Analyst Intern/Co-Op
+📍 地点: Santa Clara, CA
+📅 发布日期: 2024-09-07
+👋 类型: INTERN
+🔗 Link: https://www.linkedin.com/jobs/view/4018838692
 ----------------------------
 
 🏢 Company: Oil and Gas Job Search Ltd

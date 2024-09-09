@@ -3,19 +3,11 @@
 ----------------------------
 
 🏢 Company: Zillow
-💼 岗位: AI Applied Scientist - PhD Intern, Personalization
+💼 岗位: AI Applied Scientist - PhD Intern, Valuation & Market Dynamics
 📍 地点: United States
 📅 发布日期: 2024-09-09 🔥
 👋 类型: INTERN
-🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439113135
-----------------------------
-
-🏢 Company: Advanced Micro Devices, Inc
-💼 岗位: Machine Learning / Artificial Intelligence Intern/Co-Op
-📍 地点: Austin, TX
-📅 发布日期: 2024-09-07
-👋 类型: INTERN
-🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009438004373
+🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439113138
 ----------------------------
 
 🏢 Company: Advanced Micro Devices, Inc
@@ -24,6 +16,14 @@
 📅 发布日期: 2024-09-07
 👋 类型: INTERN
 🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009438004377
+----------------------------
+
+🏢 Company: Advanced Micro Devices, Inc
+💼 岗位: Machine Learning / Artificial Intelligence Intern/Co-Op
+📍 地点: Austin, TX
+📅 发布日期: 2024-09-07
+👋 类型: INTERN
+🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009438004373
 ----------------------------
 
 🏢 Company: Zillow
@@ -79,7 +79,7 @@
 📍 地点: Santa Clara, CA
 📅 发布日期: 2024-09-07
 👋 类型: INTERN
-🔗 Link: https://www.linkedin.com/jobs/view/4018871987
+🔗 Link: https://www.linkedin.com/jobs/view/4018877345
 ----------------------------
 
 🏢 Company: Advanced Micro Devices, Inc

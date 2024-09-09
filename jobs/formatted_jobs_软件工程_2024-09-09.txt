@@ -2,22 +2,6 @@
  时间: 2024-09-09 
 ----------------------------
 
-🏢 Company: TikTok
-💼 岗位: 
-📍 地点: Los Angeles, CA
-📅 发布日期: 2024-09-09 🔥
-👋 类型: INTERN
-🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439166645
-----------------------------
-
-🏢 Company: EchoStar
-💼 岗位: Software Engineer Intern - Summer 2025
-📍 地点: Germantown, MD
-📅 发布日期: 2024-09-09 🔥
-👋 类型: INTERN
-🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439889657
-----------------------------
-
 🏢 Company: Federal Reserve Bank of Kansas City
 💼 岗位: Software Engineer Intern - TechEdge Program - Summer 2025
 📍 地点: Kansas City, MO
@@ -26,12 +10,28 @@
 🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439992190
 ----------------------------
 
-🏢 Company: CCC Intelligent Solutions
-💼 岗位: Software Engineer Intern Summer 2025
-📍 地点: Chicago, IL
+🏢 Company: Lucid Software
+💼 岗位: Software Engineer Internship 2025
+📍 地点: Raleigh, NC
 📅 发布日期: 2024-09-09 🔥
 👋 类型: INTERN
-🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439915308
+🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439697487
+----------------------------
+
+🏢 Company: ENSCO, Inc.
+💼 岗位: HPC Software Engineer Intern
+📍 地点: Melbourne, FL
+📅 发布日期: 2024-09-09 🔥
+👋 类型: INTERN
+🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009440013660
+----------------------------
+
+🏢 Company: Tokyo Electron Limited
+💼 岗位: Software Engineer Co-op
+📍 地点: North Chelmsford, MA
+📅 发布日期: 2024-09-09 🔥
+👋 类型: CO-OP
+🔗 Link: https://www.glassdoor.com/job-listing/j?jl=1009439882356
 ----------------------------
 
 🏢 Company: ENSCO, Inc.
