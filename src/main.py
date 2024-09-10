@@ -18,7 +18,7 @@ def format_job_info(row):
     job_type = row['job_type'] if pd.notna(row['job_type']) else extract_job_type(row['title'])
     date_posted = row['date_posted'] if pd.notna(row['date_posted']) else "N/A"
     job_url = row['job_url'] if pd.notna(row['job_url']) else "N/A"
-
+    #TODO add category key word to the SQL - data model layer
     return f"""🏢 Company: {row['company']}
 💼 岗位: {title}
 📍 地点: {location}
