@@ -1,4 +1,4 @@
-import { WechatyBuilder, Contact, Room, Message, ScanStatus, log } from 'wechaty';
+import { WechatyBuilder, Contact, Room, Message, ScanStatus, log } from 'wechaty'; // whatsapp facebook - frontend
 import { ContactImpl } from 'wechaty/impls';
 import qrcodeTerminal from 'qrcode-terminal';
 import { FileBox } from 'file-box';
