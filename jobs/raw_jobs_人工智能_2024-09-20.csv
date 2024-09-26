@@ -1,0 +1,500 @@
+"id","site","job_url","job_url_direct","title","company","location","job_type","date_posted","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","company_industry","listing_type","emails","description","company_url","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","logo_photo_url","banner_photo_url","ceo_name","ceo_photo_url"
+"1009454687168","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009454687168","","AI Intern","Amadeus","Irving, TX","","2024-09-20","direct_data","yearly",49195.0,90047.0,"USD",False,"","","","organic","accommodations@amadeus.com","**Job Title**
+
+
+AI Intern***\\*\\* This is a Fall/Winter 2024 start date internship \\*\\****
+================================================================
+
+**About the Business:**
+
+Offer Americas: GenAI Configuration Assistant Development
+
+
+The Offer R&D group in the Americas aims to provide the next generation of Offer Management systems to Airlines to create, manage and deploy optimized offers in a dynamic way. We work closely with the biggest players of the industry (Kayak, Expedia, American, Delta, Southwest, Air Canada...etc) to ensure the travel solutions' selection and offer computation are up to high expectations. We are responsible for some of the largest Amadeus applications that process about 65000 transactions per second at peak time with data storage based on state-of-the-art NoSQL technology.
+
+**Summary of the role:**
+
+
+We are seeking a highly motivated and talented Trainee to develop an internal configuration assistant using AI.  
+
+Join our dynamic team to explore the integration of Generative Artificial Intelligence (GenAI) technologies in enhancing our internal systems. This project focuses on developing an AI-powered assistant that can recommend system configuration changes and explain configurations interactively based on user inquiries.
+
+**In this role you'll:**
+
+***Project Objectives:***
+
+* **Development of an AI Assistant:** Design and implement an assistant capable of generating and explaining configuration changes in response to user requests.
+* **Utilize Historical Data:** Leverage extensive historical data, including past changes, user comments, and related documentation, to inform the assistant’s responses and suggestions.
+* **Comprehensive Documentation Study:** Study and integrate configuration documentation and associated code to enhance the assistant’s knowledge base.
+* **Evaluation Framework:** Establish robust methods to evaluate the accuracy and relevance of the assistant’s suggestions to ensure they meet operational standards.
+
+ ***Key Technologies:***
+
+* Python
+* ChatGPT
+* Large Language Models (LLMs)
+* Model Evaluation Techniques
+* Prompt Engineering
+
+ **About the Ideal Candidate:**
+
+* Currently enrolled in a Masters degree university program.
+* Passionate about AI and machine learning, especially in practical, real-world applications.
+* Strong background in Python programming and experience with AI model development.
+* Familiarity with prompt engineering and evaluation metrics for AI models.
+* Keen interest in documentation analysis and data-driven decision making.
+
+**Working at Amadeus, you will find:**
+
+
+**A critical mission and purpose** - At Amadeus, you will be powering the future of travel and pursuing a critical mission and extraordinary purpose.
+
+
+**A truly global DNA** - Everything at Amadeus is global, from our people to our business, which translates into our footprint, processes, and culture.
+
+
+**Great opportunities to learn** - Learning happens all the time and in many ways at Amadeus, through on-the-job training, formal learning activities, and day-to-day interactions with colleagues.
+
+
+**A caring environment** - Amadeus fosters a caring environment, nurturing both a fulfilling career and personal and family life. We care about our employees and strive to provide a supportive work environment.
+
+
+**A complete rewards offer** - Amadeus provides attractive remuneration packages, covering all essential components of a competitive reward offer, including salary, bonus, equity, and benefits.
+
+
+**A flexible working model** - We want our employees to do their best work, wherever and however it works best for them.
+
+
+**A diverse and inclusive community** - We are committed to leveraging our uniquely diverse population to drive innovation, creativity, and collaboration across our organization.
+
+
+**A Reliable Company** - Trust and reliability are fundamental values that drive our actions and shape long-lasting relationships with our customers, partners, and employees.
+
+**Application process:**
+
+
+The application process takes no longer than 10 minutes!  
+
+Create your candidate profile, upload your Resume/CV and apply today!
+
+**Diversity & Inclusion**
+
+
+Amadeus is an Equal Employment Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, childbirth, or a related medical condition), ancestry, national origin, age, genetic information, military or veterans status, sexual orientation, gender expression, perception, or identity, marital status, mental or physical disability status, or any other protected federal, state, or local status unrelated to performance of work involved.
+
+
+Amadeus endeavors to make https://jobs.amadeus.com/ accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at accommodations@amadeus.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.","https://www.glassdoor.com/Overview/W-EI_IE6940.htm","","","","","","https://media.glassdoor.com/sql/6940/amadeus-squareLogo-1698070744812.png","","",""
+"1009453009030","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009453009030","","Data and AI Intern","IBM","New York, NY","","2024-09-19","direct_data","yearly",52560.0,96360.0,"USD",False,"","","","organic","","Introduction  
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.  
+
+  
+
+Your Role and Responsibilities  
+
+The IBM Global Real Estate (GRE) team manages a diverse range of real estate disciplines, including strategy & transactions, space management, workplace design and experience, engineering and construction, lease management, real estate acquisitions and dispositions, integration/divestitures, facility operations, asset management, employee safety, environmental and energy management.
+
+
+The GRE Technology team is a global group of highly skilled Subject Matter Experts dedicated to delivering innovative and inclusive global workplace solutions. We leverage technology to enable data-driven decisions across IBM’s portfolio and operations, partnering with clients and trusted suppliers. Our focus is on enhancing productivity through process enhancement, simplification, and automation, while leading the adoption of software and AI across our products, processes, platforms, and partnerships. Our areas of expertise include Data strategy, Data Management, Data Governance, Data Integration and Reporting, Hardware and Software Strategy and Design, IoT, Cybersecurity, Sustainability, AI and Automation, and Technology Transformation and Architecture.
+
+
+In the dynamic and evolving tech landscape, resilience, commitment, and curiosity are key to success as an IBM Global Real Estate Technology Team intern. You will engage in various aspects of data management, analysis, testing, support, process automation, and AI implementation to address diverse use cases.
+
+
+In this role, you will receive guidance from mentors and coaches who will encourage you to challenge the norm, explore ideas beyond your role, and develop innovative solutions that have a significant impact on the business, our external clients, and their customers. Our culture of flexibility and freedom supports long-term career growth and learning opportunities, highlighting your unique skills and experiences.
+
+
+As a Data and AI Intern, you will:
+
+
+* Learn about various data structures and develop new methods for combining and analyzing data to derive insights.
+* Implement business process automation with a focus on improving productivity.
+* Learn and apply foundation models based generative AI to expand use cases across various applications and the Enterprise Data & AI platform.
+* Utilize cutting-edge tools such as watsonx, Watson Orchestrate, Cognos, Tririga, Maximo, Envizi, and others.
+* Communicate with internal clients to understand their business needs and provide analytical solutions.
+* Collaborate in an agile environment, partnering with other technology team members.
+
+Who You Are:
+
+
+* Highly motivated with a passion for creating and supporting effective solutions.
+* Thrive on collaboration, working alongside people from diverse backgrounds and disciplines, and possess strong verbal and written communication skills.
+* Skilled at solving problems, debugging, troubleshooting, designing, and implementing solutions for complex technical issues.
+
+  
+
+  
+
+Required Technical and Professional Expertise* Knowledge of data migration and data warehousing.
+* Experience with database server connectivity and usability testing.
+* Proficiency in programming/scripting languages such as Java, Python, SQL, R, etc.
+* Ability to perform quantitative analysis that translate data into actionable insights and support data-driven decision-making.
+* Experience in developing and maintaining data models, algorithms, and statistical models.
+* Understanding of AGILE practices.
+* Basic understanding of foundation models and generative AI.
+
+  
+
+  
+
+Preferred Technical and Professional Expertise* 3 months experience with JavaScript, Python, R, and SQL.
+* 3 months experience with APIs and cloud technologies.
+* 3 months experience with visualization tools such as Cognos, Google Analytics, Tableau, etc.
+
+  
+
+About Business UnitThe IBM Finance organization is responsible for driving enterprise performance and transformation. We are the financial stewards of IBM, delivering IBM’s financial strategy, developing new business models, and mitigating enterprise risk. Do you have a passion for creating business value? Join our team in accounting, financial planning, pricing, business controls, tax, treasury, business development (acquisitions & divestitures), and global financing.  
+
+  
+
+Your Life @ IBMIn a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+
+Are you ready to be an IBMer?
+
+  
+
+About IBMIBM's greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.  
+
+  
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+  
+
+  
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.  
+
+  
+
+Location StatementSupplemental 1 employees may be eligible for up to 8 paid holidays, minimum of 56 hours paid sick time and the IBM Employee Stock Purchase Plan. IBM offers paid family medical leave and disability benefits to eligible employees where required by applicable law. The compensation range and benefits for this position are based on a full-time schedule for a full calendar year. The salary will vary depending on your job-related skills, experience and location. Pay increment and frequency of pay will be in accordance with employment classification and applicable laws. For part time roles, your compensation and benefits will be adjusted to reflect your hours. Benefits may be pro-rated for those who start working during the calendar year. This position was posted on the date cited in the key job details section and is anticipated to remain posted for 21 days from this date or less if not needed to fill the role. IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. We consider qualified applicants with criminal histories, consistent with applicable law.  
+
+  
+
+Being You @ IBMIBM is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, disability, neurodivergence, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","https://www.glassdoor.com/Overview/W-EI_IE354.htm","","","","","","https://media.glassdoor.com/sql/354/ibm-squareLogo-1680100245029.png","","",""
+"1009453207724","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009453207724","","Control Unit AI Internship","Ricoh","Boulder, CO","","2024-09-19","","","","","",False,"","","","organic","","**Control Unit AI Intern (Summer 2025)**
+
+Come Create at Ricoh
+
+
+If you are seeking a team driven by passion and purpose, come create with us at Ricoh. We are a team of information seekers and customer-obsessed collaborators who aspire to deliver the services, solutions, and technologies that empower business success. We are looking for talented, inspired individuals to join us during the summer of 2025 to help drive high-performance teams and our commitment to excellence.
+
+
+Ricoh is an integrated solutions provider and partner that connects people and technology, creates outstanding customer experiences, and delivers innovation for businesses worldwide. We empower digital workplaces by enabling individuals to work smarter from any location and harness the power of information—how it is collected, stored, managed, and shared—to unlock the potential in every organization. We deliver services and technologies that inspire our customers’ success and guide them toward a better and more sustainable future. If you are seeking a purpose-driven and passionate team, come create with us, and help drive our high-performance culture of excellence into tomorrow.  
+
+  
+
+
+
+**POSITION PROFILE**
+
+Our Interns will apply their education to meaningful projects in a team environment alongside a technical mentor. You will be exposed to many levels of management within our company concluding with an end of summer presentation to the executive team. Throughout the summer you will have the opportunity to acquire technical and professional skills, to participate in team building activities, and to enjoy social events in the Rocky Mountain region.  
+
+
+
+**JOB DUTIES AND RESPONSIBILITIES**
+
+Our Interns will apply their education to meaningful projects in a team environment alongside a technical mentor. You will be exposed to many levels of management within our company including
+
+
+* Recommends solutions to problems/issues that impact the project
+* Determines and examines software alternatives
+* Contributes to project planning
+* Constructively challenges and improves processes related to the specific assignment
+* Documents own work
+* Present project overview and summary to executive team at end of internship
+* Performs other duties as assigned.
+
+**QUALIFICATIONS (Education, Experience, and Certifications)**
+
+* Working towards - B.S., M.S., or PhD. degree in Computer Science, Computer Engineering, or a related field
+* Student must be currently enrolled in an accredited college or university or enrolled to continue their education in an accredited graduate program
+* Students must have a cumulative GPA of 3.0 or higher
+Students are to successfully complete all required screenings prior to hire  
+* 
+
+**KNOWLEDGE, SKILLS AND ABILITIES**
+
+* Programming experience C++ and Python (or another scripting language)
+* Knowledge of Machine Learning / AI
+* General prototyping skills
+* Software development in Linux OS environment
+* Strong debugging and analytical skills, a problem solver’s attitude
+* Ability to work both independently and in a collaborative team environment
+* Effectively uses teamwork skills to interact and collaborate on technical issues with mentor / team
+Positively contributes to a high morale/high-performance team culture  
+* 
+
+**WORKING CONDITIONS, MENTAL AND PHYSICAL DEMANDS**
+
+* Typically works in an office environment with adequate lighting and ventilation, and a normal range of temperature and noise level.
+* Work assignments are diversified. Interpret, comprehend and apply complex material, data and instruction
+	+ prepare, provide and convey diversified information.
+* Minimal physical effort required. Work is mostly sedentary but does require walking, standing, bending, reaching, lifting or carrying objects that typically with less than 10 lbs. (e.g., papers, books, files and small parts, etc.).
+* Moderate dexterity
+	+ regular application of basic skills (calculator, keyboard, hand tools, eye/hand coordination
+
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job.
+
+
+Ricoh is an EEO/Affirmative Action Employer - Minorities/Women/Protected Veterans/Disabled.","https://www.glassdoor.com/Overview/W-EI_IE21210.htm","","","","","","https://media.glassdoor.com/sql/21210/ricoh-americas-corporation-squarelogo.png","","",""
+"1d6d5175de51dc29","indeed","https://www.indeed.com/viewjob?jk=1d6d5175de51dc29","https://amadeus.wd3.myworkdayjobs.com/jobs/job/Irving-Texas/AI-Intern_R23001","AI Intern","Amadeus","Irving, TX, US","fulltime","2024-09-20","direct_data","yearly",47594.0,60264.0,"USD",False,"","","","","accommodations@amadeus.com","**Job Title**
+
+
+AI Intern***\\*\\* This is a Fall/Winter 2024 start date internship \\*\\****
+================================================================
+
+**About the Business:**
+
+Offer Americas: GenAI Configuration Assistant Development
+
+
+The Offer R&D group in the Americas aims to provide the next generation of Offer Management systems to Airlines to create, manage and deploy optimized offers in a dynamic way. We work closely with the biggest players of the industry (Kayak, Expedia, American, Delta, Southwest, Air Canada...etc) to ensure the travel solutions' selection and offer computation are up to high expectations. We are responsible for some of the largest Amadeus applications that process about 65000 transactions per second at peak time with data storage based on state-of-the-art NoSQL technology.
+
+**Summary of the role:**
+
+
+We are seeking a highly motivated and talented Trainee to develop an internal configuration assistant using AI.  
+
+Join our dynamic team to explore the integration of Generative Artificial Intelligence (GenAI) technologies in enhancing our internal systems. This project focuses on developing an AI-powered assistant that can recommend system configuration changes and explain configurations interactively based on user inquiries.
+
+**In this role you'll:**
+
+***Project Objectives:***
+
+* **Development of an AI Assistant:** Design and implement an assistant capable of generating and explaining configuration changes in response to user requests.
+* **Utilize Historical Data:** Leverage extensive historical data, including past changes, user comments, and related documentation, to inform the assistant’s responses and suggestions.
+* **Comprehensive Documentation Study:** Study and integrate configuration documentation and associated code to enhance the assistant’s knowledge base.
+* **Evaluation Framework:** Establish robust methods to evaluate the accuracy and relevance of the assistant’s suggestions to ensure they meet operational standards.
+
+ ***Key Technologies:***
+
+* Python
+* ChatGPT
+* Large Language Models (LLMs)
+* Model Evaluation Techniques
+* Prompt Engineering
+
+ **About the Ideal Candidate:**
+
+* Currently enrolled in a Masters degree university program.
+* Passionate about AI and machine learning, especially in practical, real-world applications.
+* Strong background in Python programming and experience with AI model development.
+* Familiarity with prompt engineering and evaluation metrics for AI models.
+* Keen interest in documentation analysis and data-driven decision making.
+
+**Working at Amadeus, you will find:**
+
+
+**A critical mission and purpose** - At Amadeus, you will be powering the future of travel and pursuing a critical mission and extraordinary purpose.
+
+
+**A truly global DNA** - Everything at Amadeus is global, from our people to our business, which translates into our footprint, processes, and culture.
+
+
+**Great opportunities to learn** - Learning happens all the time and in many ways at Amadeus, through on-the-job training, formal learning activities, and day-to-day interactions with colleagues.
+
+
+**A caring environment** - Amadeus fosters a caring environment, nurturing both a fulfilling career and personal and family life. We care about our employees and strive to provide a supportive work environment.
+
+
+**A complete rewards offer** - Amadeus provides attractive remuneration packages, covering all essential components of a competitive reward offer, including salary, bonus, equity, and benefits.
+
+
+**A flexible working model** - We want our employees to do their best work, wherever and however it works best for them.
+
+
+**A diverse and inclusive community** - We are committed to leveraging our uniquely diverse population to drive innovation, creativity, and collaboration across our organization.
+
+
+**A Reliable Company** - Trust and reliability are fundamental values that drive our actions and shape long-lasting relationships with our customers, partners, and employees.
+
+**Application process:**
+
+
+The application process takes no longer than 10 minutes!  
+
+Create your candidate profile, upload your Resume/CV and apply today!
+
+**Diversity & Inclusion**
+
+
+Amadeus is an Equal Employment Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex (including pregnancy, childbirth, or a related medical condition), ancestry, national origin, age, genetic information, military or veterans status, sexual orientation, gender expression, perception, or identity, marital status, mental or physical disability status, or any other protected federal, state, or local status unrelated to performance of work involved.
+
+
+Amadeus endeavors to make https://jobs.amadeus.com/ accessible to any and all users. If you would like to contact us regarding the accessibility of our website or need assistance completing the application process, please contact us at accommodations@amadeus.com. This contact information is for accommodation requests only and cannot be used to inquire about the status of applications.","https://www.indeed.com/cmp/Amadeus-038955bc","http://www.amadeus.com","Madrid","10,000+","$1B to $5B (USD)","From search and booking to check-in and departure, Amadeus keeps the travel industry moving.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/e9778fc6c6159d28ac7559716e41c1da","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/e749fc29ff205e94d1229416ec688c95","Luis Maroto","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/4df93e20382ac2591190435333802c86"
+"d5cfcbec15424e2f","indeed","https://www.indeed.com/viewjob?jk=d5cfcbec15424e2f","https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1567","Control Unit AI Internship","Ricoh","Boulder, CO, US","fulltime","2024-09-19","direct_data","yearly",67149.0,85026.0,"USD",False,"","","","","","**Control Unit AI Intern (Summer 2025)**
+
+Come Create at Ricoh
+
+
+If you are seeking a team driven by passion and purpose, come create with us at Ricoh. We are a team of information seekers and customer-obsessed collaborators who aspire to deliver the services, solutions, and technologies that empower business success. We are looking for talented, inspired individuals to join us during the summer of 2025 to help drive high-performance teams and our commitment to excellence.
+
+
+Ricoh is an integrated solutions provider and partner that connects people and technology, creates outstanding customer experiences, and delivers innovation for businesses worldwide. We empower digital workplaces by enabling individuals to work smarter from any location and harness the power of information—how it is collected, stored, managed, and shared—to unlock the potential in every organization. We deliver services and technologies that inspire our customers’ success and guide them toward a better and more sustainable future. If you are seeking a purpose-driven and passionate team, come create with us, and help drive our high-performance culture of excellence into tomorrow.  
+
+  
+
+
+
+**POSITION PROFILE**
+
+Our Interns will apply their education to meaningful projects in a team environment alongside a technical mentor. You will be exposed to many levels of management within our company concluding with an end of summer presentation to the executive team. Throughout the summer you will have the opportunity to acquire technical and professional skills, to participate in team building activities, and to enjoy social events in the Rocky Mountain region.  
+
+
+
+**JOB DUTIES AND RESPONSIBILITIES**
+
+Our Interns will apply their education to meaningful projects in a team environment alongside a technical mentor. You will be exposed to many levels of management within our company including
+
+
+* Recommends solutions to problems/issues that impact the project
+* Determines and examines software alternatives
+* Contributes to project planning
+* Constructively challenges and improves processes related to the specific assignment
+* Documents own work
+* Present project overview and summary to executive team at end of internship
+* Performs other duties as assigned.
+
+**QUALIFICATIONS (Education, Experience, and Certifications)**
+
+* Working towards - B.S., M.S., or PhD. degree in Computer Science, Computer Engineering, or a related field
+* Student must be currently enrolled in an accredited college or university or enrolled to continue their education in an accredited graduate program
+* Students must have a cumulative GPA of 3.0 or higher
+Students are to successfully complete all required screenings prior to hire  
+* 
+
+**KNOWLEDGE, SKILLS AND ABILITIES**
+
+* Programming experience C++ and Python (or another scripting language)
+* Knowledge of Machine Learning / AI
+* General prototyping skills
+* Software development in Linux OS environment
+* Strong debugging and analytical skills, a problem solver’s attitude
+* Ability to work both independently and in a collaborative team environment
+* Effectively uses teamwork skills to interact and collaborate on technical issues with mentor / team
+Positively contributes to a high morale/high-performance team culture  
+* 
+
+**WORKING CONDITIONS, MENTAL AND PHYSICAL DEMANDS**
+
+* Typically works in an office environment with adequate lighting and ventilation, and a normal range of temperature and noise level.
+* Work assignments are diversified. Interpret, comprehend and apply complex material, data and instruction
+	+ prepare, provide and convey diversified information.
+* Minimal physical effort required. Work is mostly sedentary but does require walking, standing, bending, reaching, lifting or carrying objects that typically with less than 10 lbs. (e.g., papers, books, files and small parts, etc.).
+* Moderate dexterity
+	+ regular application of basic skills (calculator, keyboard, hand tools, eye/hand coordination
+
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job.
+
+
+Ricoh is an EEO/Affirmative Action Employer - Minorities/Women/Protected Veterans/Disabled.","https://www.indeed.com/cmp/Ricoh","https://www.ricoh.com","Tokyo","10,000+","more than $10B (USD)","More than just a technology company, we are focused on how people access, share and use information.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b52cc5d69acaf44a7b4b00ba4e0322a8","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/87fd8f10bf43cb968444ca458fb9eba1","Yoshinori Yamashita","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/8a31a12118ca8c089dd3c49de5dca5c9"
+"6c42aa89b3a7be77","indeed","https://www.indeed.com/viewjob?jk=6c42aa89b3a7be77","https://click.appcast.io/track/kmqiiso-org?cs=hqw","Data and AI Intern","IBM","New York, NY, US","fulltime, internship","2024-09-19","direct_data","yearly",52560.0,96360.0,"USD",False,"","","","","","Introduction  
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.  
+
+  
+
+Your Role and Responsibilities  
+
+The IBM Global Real Estate (GRE) team manages a diverse range of real estate disciplines, including strategy & transactions, space management, workplace design and experience, engineering and construction, lease management, real estate acquisitions and dispositions, integration/divestitures, facility operations, asset management, employee safety, environmental and energy management.
+
+
+The GRE Technology team is a global group of highly skilled Subject Matter Experts dedicated to delivering innovative and inclusive global workplace solutions. We leverage technology to enable data-driven decisions across IBM’s portfolio and operations, partnering with clients and trusted suppliers. Our focus is on enhancing productivity through process enhancement, simplification, and automation, while leading the adoption of software and AI across our products, processes, platforms, and partnerships. Our areas of expertise include Data strategy, Data Management, Data Governance, Data Integration and Reporting, Hardware and Software Strategy and Design, IoT, Cybersecurity, Sustainability, AI and Automation, and Technology Transformation and Architecture.
+
+
+In the dynamic and evolving tech landscape, resilience, commitment, and curiosity are key to success as an IBM Global Real Estate Technology Team intern. You will engage in various aspects of data management, analysis, testing, support, process automation, and AI implementation to address diverse use cases.
+
+
+In this role, you will receive guidance from mentors and coaches who will encourage you to challenge the norm, explore ideas beyond your role, and develop innovative solutions that have a significant impact on the business, our external clients, and their customers. Our culture of flexibility and freedom supports long-term career growth and learning opportunities, highlighting your unique skills and experiences.
+
+
+As a Data and AI Intern, you will:
+
+
+* Learn about various data structures and develop new methods for combining and analyzing data to derive insights.
+* Implement business process automation with a focus on improving productivity.
+* Learn and apply foundation models based generative AI to expand use cases across various applications and the Enterprise Data & AI platform.
+* Utilize cutting-edge tools such as watsonx, Watson Orchestrate, Cognos, Tririga, Maximo, Envizi, and others.
+* Communicate with internal clients to understand their business needs and provide analytical solutions.
+* Collaborate in an agile environment, partnering with other technology team members.
+
+Who You Are:
+
+
+* Highly motivated with a passion for creating and supporting effective solutions.
+* Thrive on collaboration, working alongside people from diverse backgrounds and disciplines, and possess strong verbal and written communication skills.
+* Skilled at solving problems, debugging, troubleshooting, designing, and implementing solutions for complex technical issues.
+
+  
+
+  
+
+Required Technical and Professional Expertise* Knowledge of data migration and data warehousing.
+* Experience with database server connectivity and usability testing.
+* Proficiency in programming/scripting languages such as Java, Python, SQL, R, etc.
+* Ability to perform quantitative analysis that translate data into actionable insights and support data-driven decision-making.
+* Experience in developing and maintaining data models, algorithms, and statistical models.
+* Understanding of AGILE practices.
+* Basic understanding of foundation models and generative AI.
+
+  
+
+  
+
+Preferred Technical and Professional Expertise* 3 months experience with JavaScript, Python, R, and SQL.
+* 3 months experience with APIs and cloud technologies.
+* 3 months experience with visualization tools such as Cognos, Google Analytics, Tableau, etc.
+
+  
+
+About Business UnitThe IBM Finance organization is responsible for driving enterprise performance and transformation. We are the financial stewards of IBM, delivering IBM’s financial strategy, developing new business models, and mitigating enterprise risk. Do you have a passion for creating business value? Join our team in accounting, financial planning, pricing, business controls, tax, treasury, business development (acquisitions & divestitures), and global financing.  
+
+  
+
+Your Life @ IBMIn a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+
+Are you ready to be an IBMer?
+
+  
+
+About IBMIBM's greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.  
+
+  
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+  
+
+  
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.  
+
+  
+
+Location StatementSupplemental 1 employees may be eligible for up to 8 paid holidays, minimum of 56 hours paid sick time and the IBM Employee Stock Purchase Plan. IBM offers paid family medical leave and disability benefits to eligible employees where required by applicable law. The compensation range and benefits for this position are based on a full-time schedule for a full calendar year. The salary will vary depending on your job-related skills, experience and location. Pay increment and frequency of pay will be in accordance with employment classification and applicable laws. For part time roles, your compensation and benefits will be adjusted to reflect your hours. Benefits may be pro-rated for those who start working during the calendar year. This position was posted on the date cited in the key job details section and is anticipated to remain posted for 21 days from this date or less if not needed to fill the role. IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. We consider qualified applicants with criminal histories, consistent with applicable law.  
+
+  
+
+Being You @ IBMIBM is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, disability, neurodivergence, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","https://www.indeed.com/cmp/IBM","https://www.ibm.com","Armonk, NY","10,000+","more than $10B (USD)","IBM is a leading cloud platform and cognitive solutions company. Restlessly reinventing since 1911, we are one of the largest technology and consulting employers in the world.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6c2ace8b83365eaf7a7cd5fe87834c11","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/8b40026ad59a501ad829296bf40daaa4","Arvind Krishna","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/5a6b91cbb0bf3c4015d2cb936626c30e"
+"4031150895","linkedin","https://www.linkedin.com/jobs/view/4031150895","","AI Intern","Amadeus","Irving, TX","","2024-09-20","","","","","","","","","","","","","https://es.linkedin.com/company/amadeus","","","","","","","","",""
+"4028482386","linkedin","https://www.linkedin.com/jobs/view/4028482386","","Data and AI Intern","IBM","New York, NY","","2024-09-19","","","","","","","","","","","","","https://www.linkedin.com/company/ibm","","","","","","","","",""
+"4027901553","linkedin","https://www.linkedin.com/jobs/view/4027901553","","IT Intern, Data Science","American Equity","West Des Moines, IA","","2024-09-19","","","","","","","","","","","","","https://www.linkedin.com/company/american-equity","","","","","","","","",""
+"4029509510","linkedin","https://www.linkedin.com/jobs/view/4029509510","","Data Science Intern","CAS","Columbus, OH","","","","","","","","","","","","","","","https://www.linkedin.com/company/cas","","","","","","","","",""
+"4031100554","linkedin","https://www.linkedin.com/jobs/view/4031100554","","TEDx Editorial Intern (Science)","TEDx","New York, NY","","","","","","","","","","","","","","","https://www.linkedin.com/showcase/tedxofficial/","","","","","","","","",""
+"4030205036","linkedin","https://www.linkedin.com/jobs/view/4030205036","","Data Science Intern","Intuit","New York, NY","","2024-09-19","","","","","","","","","","","","","https://www.linkedin.com/company/intuit","","","","","","","","",""
+"4029999867","linkedin","https://www.linkedin.com/jobs/view/4029999867","","Data Science Intern","Intuit","Mountain View, CA","","2024-09-19","","","","","","","","","","","","","https://www.linkedin.com/company/intuit","","","","","","","","",""
+"4030201616","linkedin","https://www.linkedin.com/jobs/view/4030201616","","Data Science Intern","Intuit","San Diego, CA","","2024-09-19","","","","","","","","","","","","","https://www.linkedin.com/company/intuit","","","","","","","","",""
+"4030778290","linkedin","https://www.linkedin.com/jobs/view/4030778290","","Machine Learning Intern- Summer 2025","Wayfair","Boston, MA","","","","","","","","","","","","","","","https://www.linkedin.com/company/wayfair","","","","","","","","",""
+"4029789062","linkedin","https://www.linkedin.com/jobs/view/4029789062","","Lauder Summer 2025 Intern, Information Technology A.I.","Estée Lauder Companies South Africa","New York, NY","","2024-09-19","","","","","","","","","","","","","https://za.linkedin.com/company/estee-lauder-companies-south-africa","","","","","","","","",""
+"4029759382","linkedin","https://www.linkedin.com/jobs/view/4029759382","","Student Researcher (Doubao (Seed) - Foundation Model, Video Generation) - 2025 Start (PhD)","ByteDance","Seattle, WA","","2024-09-19","","","","","","","","","","","","","https://cn.linkedin.com/company/bytedance","","","","","","","","",""
+"4011139672","linkedin","https://www.linkedin.com/jobs/view/4011139672","","Summer Intern - Data Science","Reinsurance Group of America, Incorporated","Chesterfield, MO","","","","","","","","","","","","","","","https://www.linkedin.com/company/rga-reinsurance-group-of-america-incorporated","","","","","","","","",""
+"4030981974","linkedin","https://www.linkedin.com/jobs/view/4030981974","","Florida A&M University- Finance Internship Summer 2025","Verizon","Lake Mary, FL","","","","","","","","","","","","","","","https://www.linkedin.com/company/verizon","","","","","","","","",""

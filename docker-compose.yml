@@ -1,0 +1,28 @@
+version: '3'
+services:
+
+  job_fetcher:
+    build: 
+      context: ./job_fetcher
+      dockerfile: Dockerfile
+    volumes:
+      - ./job_fetcher:/app
+      - ./jobs:/app/jobs
+    environment:
+      - DATABASE_URL=postgresql://user:1@db:5432/jobdb
+    depends_on:
+      - db
+
+  db:
+    image: postgres:13
+    environment:
+      - POSTGRES_DB=jobdb
+      - POSTGRES_USER=root
+      - POSTGRES_PASSWORD=1
+    volumes:
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  jobs:
+  pgdata:

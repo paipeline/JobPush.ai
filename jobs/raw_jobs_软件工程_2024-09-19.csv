@@ -1,0 +1,937 @@
+"id","site","job_url","job_url_direct","title","company","location","job_type","date_posted","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","company_industry","listing_type","emails","description","company_url","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","logo_photo_url","banner_photo_url","ceo_name","ceo_photo_url"
+"1009451420872","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009451420872","","Software Engineer Intern","Four Hands","Austin, TX","","2024-09-18","direct_data","yearly",69955.0,95453.0,"USD",False,"","","","organic","","Headquartered in Austin, Texas, Four Hands is the leading global designer and wholesaler of lifestyle home furnishings. We design, manufacture, and distribute our products and support the growing needs of large retail chains, e-commerce businesses, regional stores, and interior designers. Four Hands has received numerous recognition and accolades, including ranking in the Inc. 5000 list 14 times and has been voted consistently as one of Austin’s Top Workplaces.  
+
+  
+
+We are looking for a passionate and driven Software Engineering Intern to join our innovative team. As a Software Engineering Intern, you will work closely with our experienced developers on various projects, gaining hands-on experience in coding, debugging, and software design. This internship offers an opportunity to develop your technical skills, collaborate with a talented team, and contribute to impactful projects that enhance our customers overall experience.  
+
+  
+
+This position is expected to start January 2025 and continue through the entire Spring 2025 term (through April 2025). Our internships are a minimum of 10 weeks, part-time and on-site.### **In This Role**
+
+  
+
+* Work closely with business to identify and implement improvements to our systems
+* Assist in the integration of data to and from the warehouse management system, ensuring seamless data flow and accuracy
+* Contribute to the development, testing, and debugging of software applications
+* Help develop and maintain database objects and structures for efficient data storage, retrieval, and reporting
+* Assist in recommendations for application changes, document software specifications and train users
+* Collaborate with the architect to implement design patterns and architecture
+* Be an active team member working both independently and collaboratively with the group
+* Stay updated on software development trends, technologies and toolset
+* Uphold our Core Values and be a valuable member of the Four Hands Team
+* Other tasks as defined by Management
+
+  
+
+### **The Ideal Person**
+
+  
+
+* Pursuing a degree in Computer Science, Information Systems, IT business Management or related field
+* Knowledge of database queries and Visual Studio or Eclipse is a plus
+* Knowledge of ERP systems
+* Proficiency in one or more programming languages
+* Knowledge of software development methodologies, object-oriented programming (OOP), and design patterns
+* Strong analytical, organizational and communication skills
+* Ability to create clear and effective business and systems process documentation
+* Great attention to detail and commitment to excellence
+
+  
+
+### **Internship Program at Four Hands**
+
+  
+
+The Internship Program is aimed to provide students with hands-on experience in the area they are most passionate about. Interns at Four Hands have the opportunity to work closely with various departments to gain valuable knowledge about the company. The program focuses on professional development, offering mentorship from like-minded professionals and the chance to contribute to real projects. Interns are encouraged to bring innovative ideas to make the experience challenging and rewarding. This program will enable students to gain the skills and knowledge needed to succeed in their future careers.### **About Four Hands**
+
+
+Four Hands manufactures and distributes home furnishing products, serving as design leader for some of the most highly regarded home and lifestyle brands, and selling our portfolio through online platforms and retailers nationwide. We are an award-winning company that has proven to be a disruptor business, challenging the status quo of the furniture industry through our groundbreaking approaches. With a vision to furnish the entire home, we introduce more than 2,000 styles annually across bedroom, living, dining, outdoor, office, and more. Our product development team has established a cohesive, elevated design aesthetic and consistently introduces products that deliver thoughtful style, livability, and endless inspiration.
+
+While pursuing sustainable growth, Four Hands has anticipated industry trends, such as preparing for the rise of e-commerce by investing in marketing assets, drop-ship programs, and technology, capitalizing on the growing interest of the interior design community to work directly with the company. Four Hands has also built strong relationships with diversified global vendors to ensure consistent product availability and quality.
+
+Four Hands employs a growing team of nearly 700 staff and maintains an expansive corporate headquarters and distribution centers in Austin, TX; showrooms in High Point, NC, and Las Vegas, NV; offices in China, India, Indonesia, Mexico, and Vietnam.  
+
+  
+
+Four Hands is an Equal Opportunity Employer. Four Hands recruits qualified applicants and advances in employment its employees without regard to race, color, religion, sex, gender, sexual orientation, gender identity, gender expression, age, disability, genetic information, ethnic or national origin, marital status, veteran status, or any other status protected by law.  
+
+  
+
+For more details, please visit us at www.fourhands.com.","https://www.glassdoor.com/Overview/W-EI_IE15636.htm","","","","","","https://media.glassdoor.com/sql/15636/four-hands-squareLogo-1671125598249.png","","",""
+"1009451272289","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009451272289","","Software Engineer Intern - Summer 2025","Motorola Solutions","Chicago, IL","","2024-09-18","direct_data","yearly",64215.0,111760.0,"USD",False,"","","","organic","ohr@motorolasolutions.com","**Company Overview**
+--------------------
+
+
+At Motorola Solutions, we're guided by a shared purpose - helping people be their best in the moments that matter - and we live up to our purpose every day by solving for safer. Because people can only be their best when they not only feel safe, but are safe. We're solving for safer by building the best possible technologies across every part of our safety and security ecosystem. That's mission-critical communications devices and networks, AI-powered video security & access control and the ability to unite voice, video and data in a single command center view. We're solving for safer by connecting public safety agencies and enterprises, enabling the collaboration that's critical to connect those in need with those who can help. The work we do here matters.
+
+**Department Overview**
+-----------------------
+
+
+Motorola Solutions creates innovative, mission-critical communication solutions and services that help public safety and commercial customers build safer cities and thriving communities around the world. We look for the most advanced problems solvers - like you - to help us create technologies that rise to the challenges of our customers. To connect firemen to policemen to emergency responders to nurses to specialists to lives saved. To protect communities, grow businesses and make work safer and more efficient. Motorola Solutions is looking for a self-motivated individual to help drive the next generation public safety experience, and to work with a team of top experienced professionals to enable mission critical services and solutions.
+**Job Description**
+--------------------
+
+
+We are seeking a motivated intern to contribute to the development and support of our Device Management system. The successful candidate will be involved in implementing and testing features utilizing microservices within a cloud-based architecture.
+
+**Key Responsibilities:**
+
+* Collaborate with the development team to design, implement, and test new features in our Device Management system.
+* Participate in Agile software development practices to ensure high-quality deliverables.
+* Work with microservice-based architecture and containerization technologies.
+
+**Desired Skills:**
+
+* Experience with Agile software development methodologies.
+* Familiarity with microservice-based architecture and containerization.
+* Understanding of security concepts, including authentication, access control, authorization, cryptography, and least privilege.
+* Experience in cloud-based or embedded computing software development.
+* Strong communication and problem-solving skills.
+* Knowledge of DevOps practices and .NET framework is a plus.
+
+**Basic Requirements**
+----------------------
+
+* Currently pursuing a Bachelor's or Master's degree in Computer Science, Computer Engineering or other related fields.
+* Must graduate on or after December 2025.
+* Must be a US Citizen, permanent resident or be an MS student with work authorization (F1 Visa on CPT accepted only for masters-level students).
+
+**Travel Requirements**
+-----------------------
+
+
+None
+**Relocation Provided**
+------------------------
+
+
+None
+**Position Type**
+------------------
+
+
+Intern
+**Referral Payment Plan**
+--------------------------
+
+
+No**Our** **U.S. Benefits include:**
+
+* Incentive Bonus Plans
+* Medical, Dental, Vision benefits
+* 401K with Company Match
+* 10 Paid Holidays
+* Generous Paid Time Off Packages
+* Employee Stock Purchase Plan
+* Paid Parental & Family Leave
+* and more!
+
+ ***EEO Statement***
+
+
+Motorola Solutions is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion or belief, sex, sexual orientation, gender identity, national origin, disability, veteran status or any other legally-protected characteristic.
+
+
+We are proud of our people-first and community-focused culture, empowering every Motorolan to be their most authentic self and to do their best work to deliver on the promise of a safer world. If you’d like to join our team but feel that you don’t quite meet all of the preferred skills, we’d still love to hear why you think you’d be a great addition to our team.
+
+
+We’re committed to providing an inclusive and accessible recruiting experience for candidates with disabilities, or other physical or mental health conditions. To request an accommodation, please email ohr@motorolasolutions.com.","https://www.glassdoor.com/Overview/W-EI_IE427189.htm","","","","","","https://media.glassdoor.com/sql/427189/motorola-solutions-squarelogo-1532379483692.png","","",""
+"1009449722430","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009449722430","","Software Engineer Intern (Seattle)","f5","Seattle, WA","","2024-09-17","direct_data","hourly",44.0,44.0,"USD",False,"","","","organic","accommodations@f5.com","At F5, we strive to bring a better digital world to life. Our teams empower organizations across the globe to create, secure, and run applications that enhance how we experience our evolving digital world. We are passionate about cybersecurity, from protecting consumers from fraud to enabling companies to focus on innovation.  
+
+Everything we do centers around people. That means we obsess over how to make the lives of our customers, and their customers, better. And it means we prioritize a diverse F5 community where each individual can thrive.
+Together we help each other thrive and build a better digital world!
+F5 is searching for passionate and driven engineering students to join our Summer Internship Program. This is an exciting opportunity to gain hands-on experience and contribute to real-world solutions across our enterprise and open-source projects. Whether your interest lies in backend systems engineering or DevOps, you’ll have the chance to collaborate with top software engineers, tackle challenging projects, and make the digital world a safer place for everyone.
+What You’ll Gain:* Real-World Experience: Work on impactful projects in development, testing, or DevOps within an agile environment.
+* Technical Growth: Apply your programming skills in Python, Go, C#, or Java, and enhance your expertise by working on cutting-edge technologies like Docker, Kubernetes, and CI/CD automation.
+* Mentorship: Receive guidance and support from a personal mentor throughout the program.
+* Skill Development: Alongside technical skills, you'll have access to training aimed at improving your soft skills, preparing you for a successful career in engineering.
+
+Your Typical Day May Involve:* Collaborating with your team to design, code, and test robust, scalable components that integrate into public and private cloud infrastructures and services.
+* Automating the operational aspects of services running in the cloud.
+* Focusing on optimizing on-time delivery of high-quality features and fixes.
+* Iterating rapidly in an agile environment to drive continuous improvement.
+
+You Are:* Currently pursuing a bachelor’s or master’s degree in a field related to Information Technology.
+* Excited to apply your programming knowledge and eager to grow your technical skills.
+
+Preferred Skills (Not Required but Valued):* Experience with Go, Python, Linux, Shell scripting, CI/CD automation, Docker, and Kubernetes.
+
+We’d Love to Hear from You If You:* Have a strong desire to learn new skills and develop yourself for future growth.
+* Are adaptable and able to quickly learn in a constantly evolving environment.
+* Are highly motivated, goal-oriented, and excited to succeed both individually and as part of a fast-growing, successful team.
+
+How to Apply: If you’re ready to take on a challenging and rewarding internship with F5, apply now by [insert application instructions].
+Join us in building a safer digital world—one line of code at a time.  
+
+Our Hiring Process: To apply, submit your application through our job posting. If you're shortlisted, you'll enter a 2-stage online interview process, which includes technical interviews. These interviews will take place during October and November.
+Why You Will Love Working for Us:* Potential Full-Time Employment: Unlike many companies, we want you to be at F5 permanently! if you do well during your internship, there is a place for you here as a Full-Time employee!
+* Mentorship: You'll have the opportunity to work on impactful projects under the guidance of our experienced engineers, gaining valuable insights and skills.
+* Wellness Weekends: We care about your well-being. During your internship, you'll be able to take advantage of one of F5’s Wellness Weekends to recharge and relax.
+* Intern Week: You'll be invited to Intern Week at our F5 Tower in Seattle, where you’ll join your summer intern cohort for fun events, networking, and career insights from our CEO and Executive Leadership team.
+* Flexibility: All our interns are based at one of our hub locations, where we offer a hybrid working environment that balances remote work with in-person collaboration time at our offices.
+
+This is a paid internship lasting 12 weeks, with start dates available in May and June 2025.
+Salary $44/hr  
+
+The Job Description is intended to be a general representation of the responsibilities and requirements of the job. However, the description may not be all-inclusive, and responsibilities and requirements are subject to change.
+Please note that F5 only contacts candidates through F5 email address (ending with @f5.com) or auto email notification from Workday (ending with f5.com or @myworkday.com).
+Equal Employment Opportunity
+It is the policy of F5 to provide equal employment opportunities to all employees and employment applicants without regard to unlawful considerations of race, religion, color, national origin, sex, sexual orientation, gender identity or expression, age, sensory, physical, or mental disability, marital status, veteran or military status, genetic information, or any other classification protected by applicable local, state, or federal laws. This policy applies to all aspects of employment, including, but not limited to, hiring, job assignment, compensation, promotion, benefits, training, discipline, and termination. F5 offers a variety of reasonable accommodations for candidates. Requesting an accommodation is completely voluntary. F5 will assess the need for accommodations in the application process separately from those that may be needed to perform the job. Request by contacting accommodations@f5.com.","https://www.glassdoor.com/Overview/W-EI_IE9222.htm","","","","","","https://media.glassdoor.com/sql/9222/f5-networks-squarelogo-1376675323531.png","","",""
+"1009450220275","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009450220275","","Summer 2025 Internship - Software Engineer Intern","Dow Jones","Princeton, NJ","","2024-09-17","direct_data","hourly",25.0,25.0,"USD",False,"","","","organic","talentresourceteam@dowjones.com","**Job Description:**
+
+
+**Summer 2025 Internship - Software Engineer Intern**
+
+
+**Application Deadline: November 15, 2024**
+
+
+We encourage you to submit your application as soon as you can as internship applications are reviewed on a rolling basis.
+
+
+Internship Dates: June 9, 2025 - August 15, 2025 (You must be available to work during this period)
+
+
+**About our Organization:**
+
+
+Dow Jones is a global provider of news and business information, delivering content to consumers and organizations around the world across multiple formats, including print, digital, mobile and live events. Dow Jones has produced unrivaled quality content for more than 130 years and today has one of the world’s largest news-gathering operations globally. It is home to leading publications and products including the flagship Wall Street Journal, America’s largest newspaper by paid circulation; Barron’s, MarketWatch, Mansion Global, Financial News, Investor’s Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, OPIS and Chemical Market Analytics. Dow Jones is a division of News Corp (Nasdaq: NWS, NWSA; ASX: NWS, NWSLV).
+
+
+**About the Role:**
+
+
+We are looking for a creative and motivated person to join our team as a Software Engineer Intern. As a member of the Dow Jones Development team, you’ll have the opportunity to gain hands-on experience with our teams and bring our sites and products to new levels of user engagement and technology optimization. You'll use and contribute to our shared technology platforms while staying at the cutting edge of web technology, making impactful changes to heavily trafficked sites where millions will see and appreciate your work. Throughout the experience, you'll collaborate with and learn from highly skilled engineers, while also sharing your knowledge, as we continuously improve products loved by their users. Be part of a culture that fosters collaboration and allows unique perspectives to thrive.
+
+
+**You Will:**
+
+
+* Collaborate with engineers across other Dow Jones products to take advantage of shared technology
+* Understand and improve standards of code development for shared applications and services
+* Learn about new technologies and be able to present pros and cons of adoption in terms of business value, scalability, maintainability, and project delivery performance
+* Analyze complex technological problems and present solutions
+* Dig into product requirements to discover goals desired to make informed decisions on technical approaches
+* Be able to prioritize and manage work, adhering to project timelines in a fast-paced and highly collaborative environment
+
+**You Have:**
+
+
+* Completed at least two years towards your Bachelor’s degree in Computer Science, Software Engineering, or a related field
+* Familiarity with Javascript and javascript frameworks (React, node.js, next.js, etc.)
+* Understanding of capabilities with HTML5 and DOM manipulation
+* CSS knowledge: Grid, Flexbox, Media Queries
+* Familiarity with version control systems (e.g. Git) and collaborative development workflows
+* Excellent written and verbal communication
+* Proactive attitude and willingness to take on new challenges
+* Ability to quickly learn and adapt to new technologies and tools
+* Exposure to Docker, AWS or other cloud or container based application deployment a plus
+
+\\#LI-Hybrid
+
+
+Reasonable accommodation: Dow Jones, Making Careers Newsworthy - We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.EEO/AA/M/F/Disabled/Vets. Dow Jones is committed to providing reasonable accommodation for qualified individuals with disabilities, in our job application and/or interview process. If you need assistance or accommodation in completing your application, due to a disability, email us at talentresourceteam@dowjones.com. Please put ""Reasonable Accommodation"" in the subject line and provide a brief description of the type of assistance you need. This inbox will not be monitored for application status updates.
+
+
+Business Area: Dow Jones - Technology
+
+
+Job Category: Administration, Facilities & Secretarial
+
+
+Union Status:
+
+
+Non-Union role
+
+
+Pay Range: $25/hr - $25/hr
+
+
+We recognize that attracting the best talent is key to our strategy and success as a company.As a result, we aim for flexibility in structuring competitive compensation offers to ensure we are able to attract the best candidates.The quoted salary range represents our good faith estimate as to what our ideal candidates are likely to expect, and we tailor our offers within the range based on the selected candidate's experience, industry knowledge, location, technical and communication skills, and other factors that may prove relevant during the interview process.
+
+
+Pay-for-performance is a key element in our strategy to attract, engage, and motivate talented people to do their best work. Similarly to salary, for bonus eligible roles, targets are set based on a variety of factors including competitive market practice.
+
+
+For benefits eligible roles, in addition to cash compensation, the company provides a comprehensive and highly competitive benefits package, with a variety of physical health, retirement and savings, caregiving, emotional wellbeing, transportation, and other benefits, including ""elective"" benefits employees may select to best fit the needs and personal situations of our diverse workforce..
+
+
+Since 1882, Dow Jones has been finding new ways to bring information to the world’s top business entities. Beginning as a niche news agency in an obscure Wall Street basement, Dow Jones has grown to be a worldwide news and information powerhouse, with prestigious brands including The Wall Street Journal, Dow Jones Newswires, Factiva, Barron’s, MarketWatch and Financial News.
+
+
+This longevity and success is due to a relentless pursuit of accuracy, depth and innovation, enhanced by the wisdom of past experience and a solid grasp on the future ahead. More than its individual brands, Dow Jones is a modern gateway to intelligence, with innovative technology, advanced data feeds, integrated solutions, expert research, award-winning journalism and customizable apps and delivery systems to bring the information that matters most to customers, when and where they need it, every day.
+
+
+**If you are a current employee at Dow Jones, do not apply here. Please go to the Career section on your Workday homepage and view ""Find Jobs - Dow Jones."" Thank you.**
+
+
+Req ID: 43114","https://www.glassdoor.com/Overview/W-EI_IE208.htm","","","","","","https://media.glassdoor.com/sql/208/dow-jones-squarelogo-1444414088651.png","","",""
+"61c083f8e8f4e71e","indeed","https://www.indeed.com/viewjob?jk=61c083f8e8f4e71e","https://ea.gr8people.com/jobs/186030/software-engineer-intern-summer-2025","Software Engineer Intern - SUMMER 2025","Electronic Arts","Austin, TX, US","temporary, fulltime","2024-09-19","direct_data","yearly",73924.0,93605.0,"USD",True,"","","Internet And Software","","","**Electronic Arts** is looking for students to join our world-class internship experience. Summer 2025 will be better than ever as we bring all interns together on-site for orientation week and prep students for the future ways of work by offering remote and hybrid opportunities depending on your location. For more information about our Early in Career programs, visit https://www.ea.com/careers/early-careers
+
+
+Our teams build meaningful relationships with hundreds of millions of players around the world who love our games. We aim to be the best at meeting players where they are and supporting them throughout their journey with **EA**. Our teams develop the strategic vision of our products, run outstanding multi-channel campaigns, build global engagement across all touch points, develop global insights, and propel sales and global publishing. We understand the dynamic global landscape so we can bring relevant content, promotions, and help to players anywhere.
+
+
+**What You’ll Do:**
+
+
+You will report to Producers, Development Directors and Technical Leads to lead the development of bug fixes, game changes, and new features into our games.
+
+
+**Qualifications:**
+
+
+* You are pursuing a Bachelor’s degree in a related field
+* You have working knowledge of Java Or C++, and SQL, Python
+* You have knowledge of object-oriented design and implementation
+* You must be available for a full-time paid internship in the summer of 2025
+
+We are only considering students who will be enrolled in an accredited degree program in the summer of 2025, slated to graduate no earlier than December 2025. Applicants must be legally authorized to work in the US on a full-time basis during the 12-week internship. Visa sponsorship is not available for this position.
+
+
+#LI-DNI
+
+
+  
+
+We are a global team of creators, storytellers, technologists, experience originators, innovators and so much more. We believe amazing games and experiences start with teams as diverse as the players and communities we serve. At Electronic Arts, the only limit is your imagination.","https://www.indeed.com/cmp/Electronic-Arts","http://www.ea.com","209 Redwood Shores Parkway Redwood City, CA 94065","10,000+","$5B to $10B (USD)","At Electronic Arts, we exist to inspire the world to play.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/26ec463c92ccb36bf3567b56624fd69d","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/8ea8627098dfbf863993b25c8bd37975","Andrew Wilson","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/91fe99d85c216c84f7ea8dbd666c5166"
+"4a40e7d36c3b91dc","indeed","https://www.indeed.com/viewjob?jk=4a40e7d36c3b91dc","https://jobs.smartrecruiters.com/VIVIOHealth/744000015251580-software-engineer-intern","Software Engineer Intern","VIVIO Health","Hayward, CA, US","internship","2024-09-19","direct_data","hourly",25.0,35.0,"USD",False,"","","","","","**Company Description**  
+
+VIVIO Health, a Public Benefit Corporation, uses data and technology to deliver superior health outcomes for individuals while reducing pharmacy benefit costs for our employer customers. Our evidence-based, data-driven approach has significantly improved healthcare outcomes and reduced costs for self-insured employers and health plans since 2016. We are on a mission to revolutionize the way pharmacy benefits are delivered.
+
+**Why VIVIO?**
+
+* Innovation: We’re not afraid to challenge the status quo. Join us in shaping the future of healthcare.
+* Impact: Your work will directly impact patient care and the bottom line.
+* Collaboration: Work alongside committed team members who share your passion for making a difference.
+* Culture: VIVIO encourages autonomy and reliability; micromanagement is not our style.
+* Growth: VIVIO is growing rapidly—so are your opportunities
+
+**Position: Software Engineer Intern**: This role is a **Hybrid** position (3 days in the office) for candidates within a commutable distance of our Hayward, CA location.
+
+ **Job Description**  
+
+Are you passionate about software engineering and healthcare? Do you enjoy working with customers and solving their problems? If so, you might be the perfect fit for VIVIO!
+
+
+As an Intern Software Engineer, you will work within our Tech Team, reporting to the Sr Director of Engineering, in developing, maintaining and testing our complex software applications supporting our business logic and operations. To be successful, you must have experience building high-quality software, be able to solve complex problems quickly and thrive in a highly collaborative environment with stakeholders from different organizations including those that are not technical.
+
+
+We are looking for a talented, new Computer Science or Computer Engineering graduate or a college student with strong communication, analytical and problem-solving skills and with passion for learning and growth.
+
+ **Qualifications**  
+
+* Completed a computer science/computer engineering degree, or going to complete it in 2024
+* Strong knowledge SQL preferably with MySQL
+* Strong hands-on experience with Python
+* Understanding of database schemas and design
+* Experience working with restful APIs, micro-services desired
+* Experience working on Python web frameworks such as Django, Flask or FastAPI is preferred
+* Experience developing web front end using HTML, CSS, JavaScript or React is a plus
+* Exposure to Artificial Intelligence and Machine Learning is a plus
+* Strong aptitude for complex products and solutions
+* Extreme attention to detail
+* Willingness to work independently and be flexible to the shifting needs and priorities.
+* Candidate is required to work in a hybrid environment (Tuesday, Wednesday and Thursday) at our corporate office in Hayward, CA
+* This could be a long-term internship (six months or more) with extensions.
+
+**Hourly Pay Rate: $25-$35.**
+
+ **Additional Information**  
+
+VIVIO Health is an Equal Opportunity Employer and does not unlawfully discriminate based on any status or condition protected by applicable federal, state, or local municipal law. All your information will be kept confidential according to EEO guidelines.
+
+
+Please be advised that job opportunities will only be extended after a candidate submits a completed job application and goes through our **interview process,** including 1:1 and/or group interviews via phone, video conferencing, and/or in-person. All legitimate correspondence from a VIVIO employee will come from our Smart Recruiter Applicant Tracking System **""@smartrecruiter.com""** or **""@viviohealth.com""** email accounts.","https://www.indeed.com/cmp/Vivio-Health","","","","","","","","",""
+"e7c1e8395c069d38","indeed","https://www.indeed.com/viewjob?jk=e7c1e8395c069d38","https://cbha.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/preview/1565","Software Engineer Intern","Ricoh","Boulder, CO, US","fulltime","2024-09-19","direct_data","yearly",44204.0,55972.0,"USD",False,"","","","","","**Software Engineer Intern (Summer 2025)**
+
+Ricoh is a leading innovator in the digital printing industry, specializing in the development of large-scale continuous forms inkjet printers. Our mission is to push the boundaries of print technology through automation and data-driven analytics. We are committed to delivering high-quality products and ensuring our customers experience unparalleled performance and reliability.
+
+
+We are seeking a motivated Software Engineering Intern to join our development team focused on print quality automation for large digital inkjet printers. As an intern, you will have the unique opportunity to work on cutting-edge technology, contribute to the automation of testing processes, and integrate these processes into our Continuous Integration (CI) pipeline. Your work will directly impact the efficiency of our development cycles and the quality of our software releases.  
+
+  
+
+
+
+**POSITION PROFILE**
+
+Our Interns will apply their education to meaningful projects in a team environment alongside a technical mentor. You will be exposed to many levels of management within our company concluding with an end of summer presentation to the executive team. Throughout the summer you will have the opportunity to acquire technical and professional skills, to participate in team building activities, and to enjoy social events in the Rocky Mountain region.  
+
+
+
+**JOB DUTIES AND RESPONSIBILITIES**
+
+* Collaborate with software development engineers to design, implement, and maintain automated tests for various components of our digital inkjet printers.
+* Integrate automated tests into our CI pipeline, ensuring seamless and efficient test execution during the development cycle.
+* Assist in developing scripts and tools to enhance the automation of testing processes.
+* Work with the team to identify areas for improvement in the existing CI pipeline and propose solutions to optimize code quality and build efficiency.
+* Assist with various SW development projects and field issues.
+* Participate in code reviews, team meetings, and brainstorming sessions to contribute ideas and solutions.
+* Performs other duties as assigned.
+
+**QUALIFICATIONS (Education, Experience, and Certifications)**
+
+* Student must be currently enrolled in an accredited college or university
+* Students should be pursuing a degree in Computer Science, Computer Engineering or a related major
+* Students must have a cumulative GPA of 3.0 or higher
+* Students are to successfully complete all required screenings prior to hire
+
+**KNOWLEDGE, SKILLS AND ABILITIES**
+
+* Enrolled in a bachelor's or master's degree program in Computer Science, Computer Engineering or related field
+* Proficient in C++ and Python programing languages
+* Familiarity with automation frameworks and tools
+* Experience with CI/CD tools such as Jenkins and GitLab CI/CD, including pipeline creation and management
+* Familiarity with software version control best practices
+* Experience with image processing and computer vision libraries
+* Familiarity with hardware-software integration testing
+
+**WORKING CONDITIONS, MENTAL AND PHYSICAL DEMANDS**
+
+* Typically works in an office environment with adequate lighting and ventilation, and a normal range of temperature and noise level. At times may require heavy travel.
+* Work assignments are diversified. Interpret, comprehend and apply complex material, data and instruction
+	+ prepare, provide and convey diversified information.
+* Minimal physical effort required. Work is mostly sedentary but does require walking, standing, bending, reaching, lifting or carrying objects that typically with less than 10 lbs. (e.g., papers, books, files and small parts, etc.).
+* Moderate dexterity
+	+ regular application of basic skills (calculator, keyboard, hand tools, eye/hand coordination.
+
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this job. They are not intended to be an exhaustive list of all responsibilities, skills, efforts or working conditions associated with a job.
+
+
+Ricoh is an EEO/Affirmative Action Employer - Minorities/Women/Protected Veterans/Disabled.
+
+
+Visit our University Programs on our Careers Website - https://www.ricoh-usa.com/en/about-us/careers/university-programs","https://www.indeed.com/cmp/Ricoh","https://www.ricoh.com","Tokyo","10,000+","more than $10B (USD)","More than just a technology company, we are focused on how people access, share and use information.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b52cc5d69acaf44a7b4b00ba4e0322a8","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/87fd8f10bf43cb968444ca458fb9eba1","Yoshinori Yamashita","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/8a31a12118ca8c089dd3c49de5dca5c9"
+"c9620f014a9b0c4b","indeed","https://www.indeed.com/viewjob?jk=c9620f014a9b0c4b","https://recruiting.ultipro.com/DAN1006DMT/JobBoard/aab9b8ae-463c-48fc-8362-a25df8be0c77/OpportunityDetail?opportunityId=d6daee76-3b6e-4369-aebe-ce53c120abc0&postingId=2d3a908e-ad2a-452f-955f-6c66147ebb01","Software Engineer Intern {A}","AMERGINT Technologies Inc","Colorado Springs, CO, US","fulltime","2024-09-19","direct_data","hourly",23.0,29.0,"USD",False,"","","","","","**Position Overview (Summary/Objective):**
+
+
+
+Currently, we are seeking Summer 2025 Interns in the Software Engineering department. As a Software Engineering Intern, you will provide prototyping, coding, testing, scripting, and document generation in support of software development activities. The code will be developed in C++ and Python and it will run on RedHat Linux. It will be deployed as applications, VMs, or Containers on bare metal, public cloud or hybrid environment. Git and GitLab will be used to keep track of your changes. Jira will be used to track tasks and defects. Confluence will be used to collaborate with other engineers and document the design for your projects. GitLab merge requests will be used to submit your code for peer review prior to release. This will teach you the fundamentals of developing production quality code. You will be assigned to a technology-based engineering team, and benefit from working side-by-side with a talented and experienced group of professionals who are eager to mentor.
+
+
+**Responsibilities:**
+
+
+* Code development in C++ and Python.
+* Software test development and execution in an automated testing framework called TestExec
+* Creation and updates for requirements, test plan, and release documentation.
+
+
+**Basic Qualifications:**
+
+
+* University Sophomore, Junior or Senior.
+* Working towards a BS/BE in Computer Science, Computer Engineering, EE.
+* Experience programming in Python and C++
+* Understanding of Object-Oriented Design.
+
+
+**Pay Range: $23.00 - $29.00 per hour.**
+
+
+***The application window will close in 60 days for this position.***
+
+
+**Location:**
+
+
+
+This position is based out of ARKA’s **Colorado Springs, CO** campus. If you like city life, but also enjoy the great outdoors, Colorado Springs is the place for you. The city rests at the base of Pikes Peak. The 14,115-foot summit is just one of dozens of area attractions, including scenic trains, museums, parks, a zoo and more. With a mild climate and plenty of sunshine, the Springs boasts some of the state’s best recreation opportunities. The city is also known for its robust high-tech and sports industries. We are home to the U.S. Air Force Academy and four military bases and with the Olympic Training Center and dozens of sports federations nearby, it’s common to spot world-class athletes around town.
+
+
+**EHS/Environmental Requirements:**
+
+This job operates in a professional office environment. While performing the duties of this job, the employee routinely is required to use hands to keyboard, communicate, listen to, and interpret instructions and remain stationary for extended periods of the time. This would require the ability to move around the campus and occasionally move/lift items weighing up to XX lbs. (site specific: Danbury = 25; Bothell = 40; other sites per job requirements - should be no more than 40). Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of the job.
+
+
+**ITC & Security Clearance Requirements:**
+
+This position requires the ability to obtain and maintain a US Government Security Clearance. The form contained in this link will provide insight into the information the government requests as part of the clearance process. https://www.opm.gov/forms/pdf\\_fill/sf86.pdf.
+
+
+**Visa Restrictions:**
+
+
+
+No visa sponsorship is available for this position.
+
+
+
+Employment with any of the ARKA Group companies in the US is contingent upon satisfactory completion of several pre-employment requirements to include a credit check, background check and drug screen.
+
+
+
+ARKA Group L.P. is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status, age, or any other federally protected class.
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)","https://www.indeed.com/cmp/Amergint-Technologies-Inc-1","http://www.amergint.com","Colorado Springs, CO","51 to 200","$25M to $100M (USD)","AMERGINT solutions enable the mission-critical links our customers use to communicate with vital assets around the globe and in space.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/a059e8892301f644aa6c0770afe0e480","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/a16f902f1613efe4eaa5162d22964d6d","",""
+"4029473627","linkedin","https://www.linkedin.com/jobs/view/4029473627","","Summer 2025 Internship - Software Engineer Intern","Dow Jones","New York, NY","","2024-09-18","","","","","","","","","","","","","https://www.linkedin.com/company/dow-jones","","","","","","","","",""
+"4026728758","linkedin","https://www.linkedin.com/jobs/view/4026728758","","Software Engineer Intern/Co-op (Winter 2025)","Cohere","San Francisco, CA","","2024-09-18","","","","","","","","","","","","","https://ca.linkedin.com/company/cohere-ai","","","","","","","","",""
+"4026096482","linkedin","https://www.linkedin.com/jobs/view/4026096482","","Campus Graduate - 2025 Technology Software Engineer Summer Internship New York, NY","WayUp","New York, NY","","2024-09-18","","","","","","","","","","","","","https://www.linkedin.com/company/wayup","","","","","","","","",""
+"4029263987","linkedin","https://www.linkedin.com/jobs/view/4029263987","","Summer 2025 Internship - Software Engineer Intern","Dow Jones","Princeton, NJ","","2024-09-18","","","","","","","","","","","","","https://www.linkedin.com/company/dow-jones","","","","","","","","",""
+"1009452227871","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009452227871","","Software Developer Intern","Precision Strip","Minster, OH","","2024-09-19","direct_data","yearly",55342.0,75834.0,"USD",False,"","","","organic","","Software Developer Intern
+
+
+As a Software Developer Intern, you will analyze, design and development of new systems, as well as provide maintenance and support to our custom software. The position works approximately 40 hours per week during spring semester starting in January 2025.
+
+**To thrive in this role, you must...**
+
+* College student pursuing a degree in Computer Science, MIS, Information Technology or related course with a 3.0 or greater GPA
+* Strong interpersonal skills
+* Analytical and high attention to detail
+* Eager to work in a creative and problem solving environment
+* Look for ways to continuously improve our processes.
+
+**About Precision Strip**
+
+
+As the nation's largest toll processor, Precision Strip strives to do the exceptional every day. We are a team of collaborative problem solvers, dedicated to providing the best customer service. With our in-house engineering and technical group, we believe no problem is too big.
+
+
+Precision Strip is a drug free workplace and an Equal Employment Opportunity Employer.
+
+
+Applications may be completed online at www.precision-strip.com/careers.
+
+
+Learn more about Precision Strip by visiting www.precision-strip.com.","https://www.glassdoor.com/Overview/W-EI_IE26185.htm","","","","","","https://media.glassdoor.com/sql/26185/precision-strip-squarelogo-1594643558793.png","","",""
+"1009450988854","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009450988854","","Graduate Software Developer Intern","Applied Research Associates, Inc","Raleigh, NC","","2024-09-18","direct_data","yearly",53046.0,70068.0,"USD",False,"","","","organic","","Applied Research Associates, Inc. is seeking interns to support multiple projects. Our professional software development team has designed and produced software systems ranging from integrated multi-disciplinary design and optimization systems to 3D interactive design/analysis systems, weapons effects and operational mission planning systems, electronic technical manuals, cyber security applications, and multimedia database management systems.
+
+
+**Responsibilities**
+
+
+The ideal candidate will have an active interest in applying math/statistics/engineering concepts to solve multi-disciplinary problems. The candidate should be familiar with improving/optimizing/tuning existing algorithms as well as developing new algorithms from scratch. This will include software design, software development, and debugging / issue resolution. The candidate should demonstrate a hands-on approach to problem-solving and must be willing to actively participate in the evaluation of algorithm and system performance.
+
+
+**Required Software Engineer Qualifications:**
+
+
+* **US Citizenship** (Applicants selected will be subject to a security investigation and must meet eligibility requirements for access to classified information).
+* Graduate student in computer science, engineering, applied mathematics, or a closely related field.
+* Strong foundation in software development and experience with at least one modern software development ecosystem (Python, Java, C++, JavaScript) and interest in learning others.
+* Demonstrated experience going from problem statement to prototype to production-ready algorithms.
+* Team player with excellent communication skills.
+
+**Additional Desirable Qualifications:**
+
+
+* Strong mathematical foundation and algorithm development skills.
+* Experience with modern C++ and object-oriented programming with QT.
+* Experience with web frameworks (i.e. Django, Flask, gRPC), front-end development (i.e. React, Vue), cloud technologies (i.e. Docker, Kubernetes), or distributed computing.
+* Interest or experience in physics-based modeling or Machine Learning.
+* Strong foundation in software development processes and tools (IDEs, version control, agile/scrum, CI/CD).
+* Ability and desire to quickly learn new domains.
+* Prior / existing security clearance.
+
+**Who is ARA?**
+
+
+Do you want to work for a purpose? Applied Research Associates, Inc. (aka ARA) is an employee-owned international research and engineering company. We have been providing technically superior solutions to complex and challenging problems in the physical sciences since 1979. ARA has over 2,248 employee-owners and continues to grow rapidly. Together, our offices throughout the U.S. and Canada provide a broad range of technical expertise in defense, civil, and health technologies, computer software and simulation, systems analysis, environmental technologies, and testing and measurement.
+
+
+ARA also prides itself, on having a challenging culture where innovation & experimentation are the norm. The motto, “Engineering and Science for Fun and Profit” sums up the ARA experience. Employee ownership ensures you have a voice with what happens in the company. We are also very proud of our Women’s Initiative Network (WIN), whose purpose is to motivate, support, and encourage professional career development for women to maximize career and professional accomplishments.
+
+
+To find out more about what the Software Enterprise Division has to offer, visit our website at: https://www.ara.com/benefits/
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)","https://www.glassdoor.com/Overview/W-EI_IE135302.htm","","","","","","https://media.glassdoor.com/sql/135302/applied-research-associates-squarelogo.png","","",""
+"1009450598519","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009450598519","","Software Developer Intern: 2025","IBM","Yorktown Heights, NY","","2024-09-18","direct_data","yearly",71280.0,130680.0,"USD",False,"","","","organic","","Introduction  
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.  
+
+  
+
+Your Role and Responsibilities  
+
+This is for a 2025 summer internship with the following start dates: May - August or June - September for quarter system schools.  
+
+  
+
+IBM Research I/T organization is looking to hire a Software Developer into the Apps@Research team for the continued development and support of one or more applications to manage and execute on the IBM Research strategy. This team is comprised of one or more Agile squads consisting of a product owner, iteration manager, developers and designers all working closely with members of the scientific research community (our stakeholders) to bring IBM Research strategy to life.  
+
+  
+
+An optimal candidate should be a passionate, curious, and self-driven team player who has a strong collaboration ethic while working with a global multi-disciplinary team.  
+
+  
+
+As a developer on the team you will iteratively develop software based on agile development practices, perform code reviews, commit and organize source code in github, and develop front-end components for the web as well as create APIs using one or more programming languages.  
+
+  
+
+Required Technical and Professional Expertise  
+
+This job will entail working on one or more web based applications in our portfolio.  
+
+Therefore, the candidate should have knowledge of:* JavaScript, HTML, CSS
+* Familiarity with one or more front-end frameworks such as React.js, Angular, or Vue.js.
+* Some programming experience in Python or Golang is required.
+* Candidate should be pursuing a Bachelor's Degree.
+
+  
+
+Preferred Technical and Professional Expertise  
+
+The preferred candidate will have:* Familiarity or experience with React.js
+* Some programming experience in Python scripting
+* Knowledge of git and source code management
+* Familiarity with developing for the cloud: containerization, 12 factor app principles, kubernetes, etc
+
+  
+
+About Business UnitIBM Research is the organic growth engine of IBM and an innovation engine for our customers and partners. As part of this mission, IBM Research anticipates and examines 'What's Next in Computing' to ultimately create and integrate the technologies the world relies upon to solve big challenges and unlock new opportunities. We create and pioneer new markets for IBM, our partners and customers as exemplified in our ongoing quest to reach practical and large-scale quantum computing. Across IBM Research, we realize the power and potential to accelerate discovery with our partners and clients by combining the power of high performance computing, AI, and Quantum, all integrated through the hybrid cloud.  
+
+  
+
+Your Life @ IBMIn a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+
+Are you ready to be an IBMer?
+
+  
+
+About IBMIBM's greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.  
+
+  
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+  
+
+  
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.  
+
+  
+
+Location StatementSupplemental 1 employees may be eligible for up to 8 paid holidays, minimum of 56 hours paid sick time and the IBM Employee Stock Purchase Plan. IBM offers paid family medical leave and disability benefits to eligible employees where required by applicable law. The compensation range and benefits for this position are based on a full-time schedule for a full calendar year. The salary will vary depending on your job-related skills, experience and location. Pay increment and frequency of pay will be in accordance with employment classification and applicable laws. For part time roles, your compensation and benefits will be adjusted to reflect your hours. Benefits may be pro-rated for those who start working during the calendar year. This position was posted on the date cited in the key job details section and is anticipated to remain posted for 21 days from this date or less if not needed to fill the role. This position is eligible for participation in an IBM Sales Incentive plan. Actual incentive opportunity will be based on performance and the eligible Target Incentive, as addressed in the applicable plan, all of which is subject to change. The compensation range listed for this position is the IBM Reference Salary that is used when you are not actively participating in a sales plan. Your actual base pay plus incentive opportunity will be determined by the Incentive Plan assigned to you. IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. We consider qualified applicants with criminal histories, consistent with applicable law.  
+
+  
+
+Being You @ IBMIBM is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, disability, neurodivergence, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","https://www.glassdoor.com/Overview/W-EI_IE354.htm","","","","","","https://media.glassdoor.com/sql/354/ibm-squareLogo-1680100245029.png","","",""
+"1009450988849","glassdoor","https://www.glassdoor.com/job-listing/j?jl=1009450988849","","Undergraduate Software Developer Intern","Applied Research Associates, Inc","Raleigh, NC","","2024-09-18","direct_data","yearly",41443.0,54884.0,"USD",False,"","","","organic","","Applied Research Associates, Inc. is seeking interns to support multiple projects. Our professional software development team has designed and produced software systems ranging from integrated multi-disciplinary design and optimization systems to 3D interactive design/analysis systems, weapons effects and operational mission planning systems, electronic technical manuals, cyber security applications, and multimedia database management systems.
+
+
+**Responsibilities**
+
+
+The ideal candidate will have an active interest in applying math/statistics/engineering concepts to solve multi-disciplinary problems. The candidate should be familiar with improving/optimizing/tuning existing algorithms as well as developing new algorithms from scratch. This will include software design, software development, and debugging / issue resolution. The candidate should demonstrate a hands-on approach to problem-solving and must be willing to actively participate in the evaluation of algorithm and system performance.
+
+
+**Required Software Engineer Qualifications:**
+
+
+* **US Citizenship** (Applicants selected will be subject to a security investigation and must meet eligibility requirements for access to classified information).
+* Undergraduate student in computer science, engineering, applied mathematics, or a closely related field.
+* Strong foundation in software development and experience with at least one modern software development ecosystem (Python, Java, C++, JavaScript) and interest in learning others.
+* Demonstrated experience going from problem statement to prototype to production-ready algorithms.
+* Team player with excellent communication skills.
+
+**Additional Desirable Qualifications:**
+
+
+* Strong mathematical foundation and algorithm development skills.
+* Experience with modern C++ and object-oriented programming with QT.
+* Experience with web frameworks (i.e. Django, Flask, gRPC), front-end development (i.e. React, Vue), cloud technologies (i.e. Docker, Kubernetes), or distributed computing.
+* Interest or experience in physics-based modeling or Machine Learning.
+* Strong foundation in software development processes and tools (IDEs, version control, agile/scrum, CI/CD).
+* Ability and desire to quickly learn new domains.
+* Prior / existing security clearance.
+
+**Who is ARA?**
+
+
+Do you want to work for a purpose? Applied Research Associates, Inc. (aka ARA) is an employee-owned international research and engineering company. We have been providing technically superior solutions to complex and challenging problems in the physical sciences since 1979. ARA has over 2,248 employee-owners and continues to grow rapidly. Together, our offices throughout the U.S. and Canada provide a broad range of technical expertise in defense, civil, and health technologies, computer software and simulation, systems analysis, environmental technologies, and testing and measurement.
+
+
+ARA also prides itself, on having a challenging culture where innovation & experimentation are the norm. The motto, “Engineering and Science for Fun and Profit” sums up the ARA experience. Employee ownership ensures you have a voice with what happens in the company. We are also very proud of our Women’s Initiative Network (WIN), whose purpose is to motivate, support, and encourage professional career development for women to maximize career and professional accomplishments.
+
+
+To find out more about what the Software Enterprise Division has to offer, visit our website at: https://www.ara.com/benefits/
+
+
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities
+
+
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor’s legal duty to furnish information. 41 CFR 60-1.35(c)","https://www.glassdoor.com/Overview/W-EI_IE135302.htm","","","","","","https://media.glassdoor.com/sql/135302/applied-research-associates-squarelogo.png","","",""
+"b838b2d317495bab","indeed","https://www.indeed.com/viewjob?jk=b838b2d317495bab","https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=18bcd225-9065-4e78-8585-763a250b6ab5&ccId=19000101_000001&jobId=563300&source=IN&lang=en_US","Software Development Intern","Agile5 Technologies, Inc.","Fairmont, WV, US","internship","2024-09-19","direct_data","yearly",32830.0,41570.0,"USD",False,"","","","","","**Software Developer Intern**
+
+**About Agile5**: Agile5 Technologies, Inc., is a Woman-Owned Small Business (WOSB) and Information Technology (IT) services firm that specializes in the design, development, testing, integration, and maintenance of enterprise software systems. We believe our employees are the company’s most valuable asset. We are invested in seeing our employees grow in their careers, while maintaining a work/life balance. We have an immediate, full-time need for a skilled, energetic, and driven Software Developer Intern..
+
+**Description:** The Software Development Interns will work alongside and be mentored by Agile5’s highly skilled development team. Successful candidates will assist in designing and implementing innovative solutions on projects vital to Agile5 and our customers. They will be introduced to industry-leading software tools to help troubleshoot issues related to software, develop and implement enhancements, test software, and develop and deploy fixes.
+
+**Software Developer Intern Job Duties:**
+
+* Design, develop, enhance, debug, implement, and maintain software
+* Troubleshoot system problems and issues related to software and develop fixes
+* Code software to adhere to designs supporting business requirements and customers
+* Consult with project teams and end users to identify software requirements and enhancements
+* Resolve problems with software developed and respond to suggestions for enhancements and improvements
+* Perform other duties as assigned
+
+**Security Clearance Requirements:** None required upon applying, but desire and ability to undergo extensive background check and obtain future security clearance is highly preferred. Must be a U.S. citizen to apply.
+
+**Education Requirements**: Pursuing a degree in computer science, computer engineering, information technology, mathematics, or closely related field
+
+**Desired Skills / Qualifications**: Java, Python; ability to research and learn both independently and as part of a team; must have reliable Internet access
+
+**Location**: Occasional travel required to Fairmont, WV
+
+**Status**: Varies; Agile5 provides flexible scheduling for interns looking to work during school semesters as well as the summer
+
+**Schedule**: Day shift, Monday–Friday
+
+**Physical Requirements**: Must be able to remain in a stationary position for long durations of time. Also, must be able to continuously operate a computer and other office productivity machinery.
+
+**Travel Required**: No
+
+
+As a Federal contractor, Agile5 Technologies, Inc. is subject to Executive Order 14042, which requires all employees to be fully vaccinated for coronavirus (COVID-19) unless they qualify for an exemption. At this time, Executive Order 14042 is not being enforced. Therefore, Agile5 will not require vaccine documentation upon hire. This status may be subject to change. If you wish to provide vaccine documentation on a voluntary basis, Agile5 will store the protected information appropriately.
+
+
+This job description is subject to change at any time.
+
+
+We are an equal opportunity employer, and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.","https://www.indeed.com/cmp/Agile5-Technologies,-Inc.","https://www.agile5technologies.com","Fairmont","11 to 50","","","","","",""
+"844709f35ba151f2","indeed","https://www.indeed.com/viewjob?jk=844709f35ba151f2","https://click.appcast.io/track/kmqiisg-org?cs=hqw","Software Developer Intern","IBM","Research Triangle Park, NC, US","fulltime","2024-09-19","direct_data","yearly",58197.0,106695.0,"USD",False,"","","","","","Introduction  
+
+IBM is a different kind of technology company. We’re on the forefront of groundbreaking change – improving business, society, and the human condition. This all starts with our employees. By encouraging IBMers to explore their curiosities, it gives us a new outlook on the world and its possibilities for emerging tech. Are you ready?  
+
+  
+
+Your Role and Responsibilities  
+
+As part of the CIO organization, we're responsible for driving innovation and transformation using cutting-edge technologies like AI, machine learning, and automation. We collaborate closely with various teams across IBM to develop solutions for every IBMer that address complex business challenges and unlock new opportunities. Our culture encourages creativity, experimentation, and continuous learning.
+
+
+As a software developer intern within the CIO Organization, you will work closely with experienced developers to design, implement, test, and deploy high-quality software solutions within IBM. As an intern, you'll contribute to various projects and tasks under the guidance of senior engineers.
+
+
+Responsibilities:
+
+
+* Collaborating with team members to design and implement software features and improvements.
+* Conducting unit tests, debugging, troubleshooting issues, and writing automated test cases.
+* Participating in code reviews and suggesting optimizations.
+* Researching and evaluating new technologies and frameworks for potential implementation.
+* Assisting with project management tasks such as sprint planning and task prioritization.
+* Communicating effectively with stakeholders, including technical leads and product managers.
+* Additionally, you'll have opportunities to learn about best practices, emerging technologies, and industry trends.
+
+  
+
+  
+
+Required Technical and Professional Expertise* Currently pursuing a bachelor's or higher degree in Computer Science or a related field.
+* Experience in programming languages such as Python, Java, or JavaScript.
+* Excellent written and verbal communication abilities.
+* Self-starter with strong problem-solving skills and attention to detail
+
+  
+
+  
+
+Preferred Technical and Professional Expertise  
+
+* 
+
+
+About Business UnitThe IBM Finance organization is responsible for driving enterprise performance and transformation. We are the financial stewards of IBM, delivering IBM’s financial strategy, developing new business models, and mitigating enterprise risk. Do you have a passion for creating business value? Join our team in accounting, financial planning, pricing, business controls, tax, treasury, business development (acquisitions & divestitures), and global financing.  
+
+  
+
+Your Life @ IBMIn a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+
+
+Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+
+
+Are you ready to be an IBMer?
+
+  
+
+About IBMIBM's greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.  
+
+  
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+  
+
+  
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.  
+
+  
+
+Location StatementSupplemental 1 employees may be eligible for up to 8 paid holidays, minimum of 56 hours paid sick time and the IBM Employee Stock Purchase Plan. IBM offers paid family medical leave and disability benefits to eligible employees where required by applicable law. The compensation range and benefits for this position are based on a full-time schedule for a full calendar year. The salary will vary depending on your job-related skills, experience and location. Pay increment and frequency of pay will be in accordance with employment classification and applicable laws. For part time roles, your compensation and benefits will be adjusted to reflect your hours. Benefits may be pro-rated for those who start working during the calendar year. This position was posted on the date cited in the key job details section and is anticipated to remain posted for 21 days from this date or less if not needed to fill the role. IBM will not be providing visa sponsorship for this position now or in the future. Therefore, in order to be considered for this position, you must have the ability to work without a need for current or future visa sponsorship. We consider qualified applicants with criminal histories, consistent with applicable law.  
+
+  
+
+Being You @ IBMIBM is committed to creating a diverse environment and is proud to be an equal-opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender, gender identity or expression, sexual orientation, national origin, caste, genetics, pregnancy, disability, neurodivergence, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.","https://www.indeed.com/cmp/IBM","https://www.ibm.com","Armonk, NY","10,000+","more than $10B (USD)","IBM is a leading cloud platform and cognitive solutions company. Restlessly reinventing since 1911, we are one of the largest technology and consulting employers in the world.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/6c2ace8b83365eaf7a7cd5fe87834c11","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/8b40026ad59a501ad829296bf40daaa4","Arvind Krishna","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/5a6b91cbb0bf3c4015d2cb936626c30e"
+"923158f58af06c84","indeed","https://www.indeed.com/viewjob?jk=923158f58af06c84","https://www.applicantpro.com/openings/precisionstrip/jobs/3500910-76502","Software Developer Intern","PRECISION STRIP","Minster, OH, US","fulltime","2024-09-18","direct_data","yearly",35694.0,45197.0,"USD",False,"","","","","","Software Developer Intern
+
+
+As a Software Developer Intern, you will analyze, design and development of new systems, as well as provide maintenance and support to our custom software. The position works approximately 40 hours per week during spring semester starting in January 2025.
+
+**To thrive in this role, you must...**
+
+* College student pursuing a degree in Computer Science, MIS, Information Technology or related course with a 3.0 or greater GPA
+* Strong interpersonal skills
+* Analytical and high attention to detail
+* Eager to work in a creative and problem solving environment
+* Look for ways to continuously improve our processes.
+
+**About Precision Strip**
+
+
+As the nation's largest toll processor, Precision Strip strives to do the exceptional every day. We are a team of collaborative problem solvers, dedicated to providing the best customer service. With our in-house engineering and technical group, we believe no problem is too big.
+
+
+Precision Strip is a drug free workplace and an Equal Employment Opportunity Employer.
+
+
+Applications may be completed online at www.precision-strip.com/careers.
+
+
+Learn more about Precision Strip by visiting www.precision-strip.com.","https://www.indeed.com/cmp/Precision-Strip","https://www.precision-strip.com/","86 South Ohio Street
+Minster, OH 45865","1,001 to 5,000","","Precision Strip is the nation's largest toll processor of metals","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/95883022e0322cfec9780d2f0447ce8a","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/d3d6668cce41c1acc9a6676aa9fc95f5","Tracy Drees","https://d2q79iu7y748jz.cloudfront.net/s/_ceophoto/512x512/3e6d32617b2d74805db28ffb2241bd76"
+"969fc957978410b5","indeed","https://www.indeed.com/viewjob?jk=969fc957978410b5","https://rr.jobsyn.org/A44F9BB601F14A3195911FE84F6572211554","Software Developer Intern (Kansas City)","Burns & McDonnell","Kansas City, MO, US","fulltime, internship","2024-09-18","direct_data","yearly",55648.0,70463.0,"USD",False,"","","Consulting And Business Services","","","**Description**
+
+
+Our Interns are responsible for performing tasks requiring the application of standard engineering techniques and procedures. This includes standard design of engineering systems, correcting and updating designs, assisting lead engineers with various project duties, and other duties as assigned.
+
+
+Specific assignments and project work vary depending on the market segments. Please see below for information on each market:
+
+
+Aviation & Federal
+
+
+The Aviation & Federal group is responsible for program management, master planning, facility design commissioning, and operational systems design of commercial aviation and Federal & Military projects, including buildings, infrastructure, hangars, passenger terminals, fueling & ramp services, runways, and aviation support facilities.
+
+
+Transmission & Distribution
+
+
+The Transmission & Distribution group is responsible for the planning and design of electrical transmission projects in power delivery, including overhead transmission, underground transmission, distribution systems, substation design, telecommunication & network engineering, pipelines, renewable power integration, security, grid modernization and more.
+
+
+**Qualifications**
+
+
+* Pursuit of Bachelor's degree in Computer Science or related field.
+* Technical expertise in computer equipment, storage, backups, operating systems and tools used in an operating environment required.
+* Currently enrolled, and in good standing, in a post-secondary education and/or technical certificate program in a field related to the work done in the department.
+* Minimum of a 3.0 GPA strongly preferred.
+* Prior internship and/or related consulting experience preferred.
+* Actively involved in campus, community or other volunteer activities or organizations.
+* Excellent verbal and written communication skills.
+* Strong problem solving and analytical skills.
+* Basic knowledge and experience in Microsoft Office programs, including, Word, Excel, PowerPoint and Outlook.
+* Demonstrated leadership skills.
+* Self-motivated and eager learner, aptitude to grow and develop within the field.
+* Candidates must be legally authorized to work in the United States on a full-time basis without requiring future sponsorship for employment visa status.
+
+**Benefits**
+
+
+Interns may participate in our 401(k) retirement program provided plan eligibility requirements are met. Sick leave is accrued based on the actual number of hours worked. For more information, please visit the Benefits & Wellness page.
+
+
+This job posting will remain open a minimum of 72 hours and on an ongoing basis until filled
+
+
+EEO/Minorities/Females/Disabled/Veterans
+
+
+**Job** Intern
+
+
+**Primary Location** US-MO-Kansas City
+
+
+**Schedule:** Full-time
+
+
+**Travel:** Yes, 5 % of the Time
+
+
+**Req ID:** 244090
+
+
+**Job Hire Type** Intern #LI-MW #COR","https://www.indeed.com/cmp/Burns-&-Mcdonnell","http://www.burnsmcd.com/careers","9400 Ward Parkway
+Kansas City, MO 64114","5,001 to 10,000","$1B to $5B (USD)","We are a family of companies bringing together an unmatched team of 10,000 engineers, construction professionals, architects, planners, technologists and scientists to design and build infrastructure.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/892891857c5f48b81eea299ec08278d2","https://d2q79iu7y748jz.cloudfront.net/s/_headerimage/1960x400/9da0ff80b62bed63d7ce56562e8a5629","Ray Kowalik",""
+"4011791047","linkedin","https://www.linkedin.com/jobs/view/4011791047","","Software Developer Intern (Summer Internship Program)","CGI","Westerville, OH","","2024-09-18","","","","","","","","","","","","","https://ca.linkedin.com/company/cgi","","","","","","","","",""
+"4028546366","linkedin","https://www.linkedin.com/jobs/view/4028546366","","Software Developer Summer Internship - 2025","Interactive Brokers","Greenwich, CT","","2024-09-17","","","","","","","","","","","","","https://www.linkedin.com/company/interactive-brokers","","","","","","","","",""
+"4010724508","linkedin","https://www.linkedin.com/jobs/view/4010724508","","Software Developer Intern (Summer Internship Program)","CGI","Atlanta, GA","","2024-09-17","","","","","","","","","","","","","https://ca.linkedin.com/company/cgi","","","","","","","","",""
+"4010724509","linkedin","https://www.linkedin.com/jobs/view/4010724509","","Software Developer Intern (Summer Internship Program)","CGI","Nashville, TN","","2024-09-17","","","","","","","","","","","","","https://ca.linkedin.com/company/cgi","","","","","","","","",""
+"dc7f5351b1a03343","indeed","https://www.indeed.com/viewjob?jk=dc7f5351b1a03343","https://app.jobvite.com/CompanyJobs/Job.aspx?j=oidxufwg&s=Indeed","Web Developer Intern","MidwayUSA","Columbia, MO, US","internship","2024-09-19","","hourly","","","USD",False,"","","","","","Are you a student interested in pursuing a career in Web Development? If so, **MidwayUSA** might be just the place for you! As a **Web Developer Intern** With MidwayUSA, you will provide web development support to internal stakeholders. At **MidwayUSA**, we are looking for **Web Developer Interns** who are excited by new technologies, outpacing competitors, and creating high-performance websites. Your ideas count, so we need you to be smart and able to get things done.
+
+
+To qualify for an **Internship** with **MidwayUSA**, applicants must meet the following criteria:* The Intern should be within 12 months of completing all requirements for graduation from an accredited program.
+* Able to work 40 hours per week from late May-mid August.
+* Minimum of 3.0 GPA
+* Enrolled in a qualified higher education program in a field related to the internship opportunity
+* Be able to live in the Columbia, MO area during the internship period
+
+  
+
+We work with the best technologies we can find:
+
+* ASP.NET MVC in C#
+* JavaScript, jQuery; Elm
+* Team Foundation Server
+* HTML5, CSS3
+
+
+And we work in **agile** teams, so communication skills are at least as important as technical skills. Our dream Intern candidate would have a passion for the industry and potential to join our organization after graduation.
+
+  
+
+If this sounds like the place for you, apply today! We’d love to have you on the team!
+
+  
+
+ -
+
+
+MidwayUSA, located right here in Columbia, is an industry-leading internet retailer of Hunting, Shooting, Fishing and Outdoor products. We are a fast-paced, growing organization that has a “promote from within” Culture, so there are many opportunities for advancement. Both country kids from Missouri, Larry and Brenda Potterfield turned their passion for shooting sports into a career by opening a small gun shop in 1977 which eventually became MidwayUSA (www.midwayusa.com). They instilled family values like honesty, integrity, and respect for others into the business, and strive to maintain this culture with each Employee who joins our growing team. For over 47 years, MidwayUSA has offered JUST ABOUT EVERYTHING® for Shooting, Hunting and the Outdoors with an unyielding focus on Customer Satisfaction.
+
+
+ -
+
+**MidwayUSA** is one of only two organizations to be a three-time recipient of the Malcolm Baldrige National Quality Award
+
+**MidwayUSA** is a tobacco & smoke-free campus  
+
+  
+
+**MidwayUSA** requires all candidates post-offer to submit to a background check and drug screening as a condition of employment.
+
+ **Apply Today!**
+
+**Job Type:** Part-time
+
+**Pay:** $23.00 hour
+
+**Work Location:** In person; Columbia, MO","https://www.indeed.com/cmp/Midwayusa","https://www.midwayusa.com/jobs-in-missouri","Columbia, MO","501 to 1,000","","MidwayUSA, offering JUST ABOUT EVERYTHING for Shooting, Hunting and the Outdoors with an unyielding focus on Customer Satisfaction since 1977.","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8d07d38b1c9c84b4d2281f4d7bf9d139","","Matt Fleming",""
+"4010945682","linkedin","https://www.linkedin.com/jobs/view/4010945682","","Full Stack Intern FY25 (Summer 2025) Meraki","Cisco","Chicago, IL","","2024-09-17","","","","","","","","","","","","","https://www.linkedin.com/company/cisco","","","","","","","","",""
+"4029865492","linkedin","https://www.linkedin.com/jobs/view/4029865492","","Full Stack Web Development Intern","Youth for STEM Equity","Columbus, Ohio Metropolitan Area","","","","","","","","","","","","","","","https://www.linkedin.com/company/youthforstemequity","","","","","","","","",""
+"4030448304","linkedin","https://www.linkedin.com/jobs/view/4030448304","","Web Developer Intern","MidwayUSA","Columbia, MO","","","","","","","","","","","","","","","https://www.linkedin.com/company/midwayusa","","","","","","","","",""
+"4021616800","linkedin","https://www.linkedin.com/jobs/view/4021616800","","Summer 2025 Intern - Full Stack Web Developer Intern","Noblis","Reston, VA","","","","","","","","","","","","","","","https://www.linkedin.com/company/noblis","","","","","","","","",""
