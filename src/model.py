@@ -30,9 +30,5 @@ class Job(Base):
     updated_at = Column(Date, default=date.today, onupdate=date.today)
     job_type = Column(SQLAlchemyEnum(JobType))
 
-    __table_args__ = (
-        UniqueConstraint('title', 'company', 'location', 'job_type', name='uq_job_attributes'),
-    )
-
     def __repr__(self):
         return f"<Job(company='{self.company}', title='{self.title}', location='{self.location}', category='{self.category}')>"

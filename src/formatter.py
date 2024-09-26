@@ -2,8 +2,9 @@
 # 清理30天前的数据
 from database import JobDatabase
 from utils import format_job_info
+import os
+from pathlib import Path
 from datetime import datetime, timedelta
-
 
 def format_jobs(jobs, category,time_range):
     formatted_jobs = f"📢 今天的{category}工作机会来啦! 快去Apply👉  \n 时间: {datetime.now().strftime('%Y-%m-%d')} \n----------------------------\n\n"
@@ -11,10 +12,27 @@ def format_jobs(jobs, category,time_range):
         formatted_jobs += format_job_info(job,time_range)
     return formatted_jobs
 
+
+def clean_formatted_files(directory: str):
+    files = list(Path(directory).glob('formatted_jobs_*_*.txt'))
+    thirty_days_ago = datetime.now() - timedelta(days=30)
+    if len (files) < 30:
+        print("没有超过30天的文件，无需清理")
+        return
+    for file in files:
+        file_date_str = file.stem.split('_')[-1]
+        file_date = datetime.strptime(file_date_str, '%Y-%m-%d')
+        if file_date < thirty_days_ago:
+            try:
+                os.remove(file)
+                print(f"已删除文件: {file}")
+            except Exception as e:
+                print(f"无法删除文件 {file}: {e}")
+    return
+
 def main():
     db = JobDatabase()
     categories = ["软件工程", "数据科学", "人工智能", "商业分析"]
-    
     for category in categories:
         time_range = 2
         jobs = db.get_recent_jobs_by_category(time_range, category)

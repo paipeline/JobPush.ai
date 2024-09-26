@@ -9,6 +9,20 @@
 👋 类型: JobType.INTERN
 🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460806617
 ----------------------------
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: Love's Travel Stops & Country Stores
+💼 岗位: HR Data Analyst Intern
+📍 地点: Oklahoma City, OK
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460649039
+----------------------------
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: Brighthouse Financial
+💼 岗位: 2025 Summer Intern - Data Analyst
+📍 地点: Charlotte, NC, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=8aaec61e4a0be1c6
+----------------------------
 📅 发布日期: 2024-09-25
 🏢 公司: ASML
 💼 岗位: Internship - Data Science

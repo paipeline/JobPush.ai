@@ -9,6 +9,27 @@
 👋 类型: JobType.INTERN
 🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460806060
 ----------------------------
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: Bombardier
+💼 岗位: Business Analyst Intern
+📍 地点: Wichita, KS, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=d44378f9332c5fb1
+----------------------------
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: BAXTER
+💼 岗位: Financial Analyst Intern
+📍 地点: Deerfield, IL
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009461681943
+----------------------------
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: Tenneco
+💼 岗位: Business Analyst Intern
+📍 地点: Monroe, MI
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460456909
+----------------------------
 📅 发布日期: 2024-09-25
 🏢 公司: Chick-fil-A, Inc.
 💼 岗位: Chick-fil-A 2025 Summer Intern - Business Analyst
@@ -43,4 +64,60 @@
 📍 地点: San Antonio, TX
 👋 类型: JobType.INTERN
 🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009458668215
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: AstraZeneca
+💼 岗位: Business Analyst Intern
+📍 地点: Gaithersburg, MD
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009458616346
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: RippleMatch Opportunities
+💼 岗位: HubSpot - Financial Analyst Intern, application via RippleMatch
+📍 地点: Cambridge, MA
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460210655
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Baxter
+💼 岗位: Financial Analyst Intern
+📍 地点: Deerfield, IL, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=4c4afc1f24e7ad11
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Rabobank
+💼 岗位: Financial Analyst Intern
+📍 地点: Fresno, CA, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=5ecd32d81e279199
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Dow Jones
+💼 岗位: Summer 2025 Internship - Financial Analyst
+📍 地点: New York, NY
+👋 类型: JobType.INTERN
+🔗 链接: https://www.linkedin.com/jobs/view/4034469791
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Intuitive
+💼 岗位: Financial Analyst Intern
+📍 地点: Sunnyvale, CA
+👋 类型: JobType.INTERN
+🔗 链接: https://www.linkedin.com/jobs/view/4017098092
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Kodiak
+💼 岗位: Winter 2025 Operations Research Intern
+📍 地点: Mountain View, CA
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009458617504
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Dow Jones
+💼 岗位: Summer 2025 Internship - Financial Analyst
+📍 地点: United States
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009459045175
 ----------------------------

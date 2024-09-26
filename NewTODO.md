@@ -1,3 +1,2 @@
-- [ ] expose API for GET jobs/all -> this will get the jobs in a scope of 2 days
-- [ ] expose API for GET jobs/companies -> this will get the jobs for all the available companies
-
+- [ ] cronetab for job_fetcher
+- [ ] index.js listen to the change in fobs recent update

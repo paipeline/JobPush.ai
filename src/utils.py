@@ -39,3 +39,5 @@ def is_recent(date_posted):
     today = datetime.now().date()
     four_days_ago = today - timedelta(days=4)
     return str(date_posted) >= str(four_days_ago)
+
+
