@@ -1,0 +1,32 @@
+📢 今天的数据科学工作机会来啦! 快去Apply👉  
+ 时间: 2024-09-26 
+----------------------------
+
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: The Manitowoc Company
+💼 岗位: Data Analyst Intern - Product Support - Summer 2025
+📍 地点: Shady Grove, PA
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460806617
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: ASML
+💼 岗位: Internship - Data Science
+📍 地点: San Diego, CA, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=c7d43dbd606ff31f
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Manitowoc
+💼 岗位: Data Analyst Intern - Product Support - Summer 2025
+📍 地点: Shady Grove, PA, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=83b886c82443fb7e
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Love's Travel Stops & Country Stores
+💼 岗位: HR Data Analyst Intern
+📍 地点: Oklahoma City, OK, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=25c8eba4a764af35
+----------------------------

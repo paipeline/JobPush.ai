@@ -1,0 +1,102 @@
+📢 今天的软件工程工作机会来啦! 快去Apply👉  
+ 时间: 2024-09-26 
+----------------------------
+
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: Athene
+💼 岗位: Software Developer Intern
+📍 地点: West Des Moines, IA
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460806485
+----------------------------
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: Interstates, Inc.
+💼 岗位: Software Developer Intern - SQL focused
+📍 地点: Sioux Falls, SD
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460132839
+----------------------------
+📅 发布日期: 2024-09-26 🔥
+🏢 公司: Dallas County Community College District
+💼 岗位: SAS Programmer Intern
+📍 地点: Dallas, TX
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009460531726
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Shure
+💼 岗位: Software Engineer Intern
+📍 地点: Niles, IL
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009459116510
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: PayPal
+💼 岗位: Mobile Software Engineer Intern
+📍 地点: Scottsdale, AZ
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009459025193
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: SAIC
+💼 岗位: Software Engineer Intern
+📍 地点: Fort Washington, MD, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=dbabd90fbd2e671a
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: OHOS Media
+💼 岗位: Software Engineer Intern
+📍 地点: Remote, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=ec40379fe4e13486
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: C.H. Robinson
+💼 岗位: Software Engineer Internship
+📍 地点: Eden Prairie, MN
+👋 类型: JobType.INTERN
+🔗 链接: https://www.linkedin.com/jobs/view/4033232733
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: ATHENE
+💼 岗位: Software Developer Intern
+📍 地点: West Des Moines, IA, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=9535dd4b2786b9f5
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Interstates Companies
+💼 岗位: Software Developer Intern - SQL focused
+📍 地点: Sioux Falls, SD, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=16b17ad1e0280172
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Gallup
+💼 岗位: Software Developer Intern — Summer 2025
+📍 地点: Omaha, NE
+👋 类型: JobType.INTERN
+🔗 链接: https://www.linkedin.com/jobs/view/4015546170
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: DYNAMIX DISTRIBUTION
+💼 岗位: Computer Programmer Intern
+📍 地点: N/A
+👋 类型: JobType.INTERN
+🔗 链接: https://www.glassdoor.com/job-listing/j?jl=1009459013904
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Dallas College
+💼 岗位: SAS Programmer Intern
+📍 地点: Dallas, TX, US
+👋 类型: JobType.INTERN
+🔗 链接: https://www.indeed.com/viewjob?jk=5afc6e92d267d73a
+----------------------------
+📅 发布日期: 2024-09-25
+🏢 公司: Epic Games
+💼 岗位: Gameplay Programmer Intern
+📍 地点: Cary, NC
+👋 类型: JobType.INTERN
+🔗 链接: https://www.linkedin.com/jobs/view/4014190695
+----------------------------

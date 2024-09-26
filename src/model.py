@@ -1,7 +1,7 @@
-from sqlalchemy import create_engine, Column, Integer, String, Text, DateTime, Enum as SQLAlchemyEnum, UniqueConstraint
+from sqlalchemy import create_engine, Column, Integer, String, Text, Date, Enum as SQLAlchemyEnum, UniqueConstraint
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
-from datetime import datetime
+from datetime import date
 from enum import Enum
 from typing import List, Optional
 
@@ -22,12 +22,12 @@ class Job(Base):
     company = Column(String(100), nullable=False)
     title = Column(String(200), nullable=False)
     location = Column(String(length=100))
-    posted_date = Column(DateTime)
+    posted_date = Column(Date)
     link = Column(String(500))
     description = Column(Text)
-    category = Column(String(100))  # New column added
-    created_at = Column(DateTime, default=datetime.utcnow)
-    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
+    category = Column(String(100))  # 新增列
+    created_at = Column(Date, default=date.today)
+    updated_at = Column(Date, default=date.today, onupdate=date.today)
     job_type = Column(SQLAlchemyEnum(JobType))
 
     __table_args__ = (

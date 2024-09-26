@@ -2,8 +2,9 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 from model import Job, Base
 from typing import Optional, List
-from datetime import datetime
+from datetime import datetime, date
 from model import JobType
+from datetime import timedelta
 
 class JobDatabase:
     def __init__(self, db_url: str = 'sqlite:///jobpush.db'):
@@ -18,17 +19,18 @@ class JobDatabase:
             existing_job = session.query(Job).filter(
                 Job.title == job_data.get('title'),
                 Job.company == job_data.get('company'),
+                Job.location == job_data.get('location'),
             ).first()
 
             if existing_job:
                 print(f"已存在: {existing_job}")
                 return existing_job
-
-            new_job = Job(**job_data)
-            session.add(new_job)
-            session.commit()
-            session.refresh(new_job)
-            return new_job
+            else:
+                new_job = Job(**job_data)
+                session.add(new_job)
+                session.commit()
+                session.refresh(new_job)
+                return new_job
         except Exception as e:
             session.rollback()
             raise e
@@ -66,12 +68,17 @@ class JobDatabase:
         finally:
             session.close()
 
-    def delete_job(self, job_id: int) -> bool:
+    def delete_job(self, **kwargs) -> bool:
         session = self.Session()
         try:
-            job = session.query(Job).filter(Job.id == job_id).first()
-            if job:
-                session.delete(job)
+            query = session.query(Job)
+            for key, value in kwargs.items():
+                if hasattr(Job, key):
+                    query = query.filter(getattr(Job, key).like(f"%{value}%"))
+            jobs = query.all()
+            if jobs:
+                for job in jobs:
+                    session.delete(job)
                 session.commit()
                 return True
             return False
@@ -91,6 +98,19 @@ class JobDatabase:
             return query.all()
         finally:
             session.close()
+    def get_recent_jobs_by_category(self, time_range, category) -> List[Job]:
+        session = self.Session()
+        try:
+            today = datetime.now().date()
+            target_date = today - timedelta(days=time_range-1)
+            print(f"从: {target_date} 到 {today}")
+            return session.query(Job).filter(
+                Job.posted_date >= target_date,
+                Job.posted_date <= today,
+                Job.category == category
+            ).order_by(Job.posted_date.desc()).all()
+        finally:
+            session.close()
 
 # Example usage
 if __name__ == "__main__":
@@ -106,14 +126,16 @@ if __name__ == "__main__":
     }
     created_job = db.create_job(new_job_data)
 
-    # # Get all jobs
+    recent_jobs = db.get_recent_jobs_by_category(2, "软件工程")
+    print(f"Jobs in the last 2 days: {recent_jobs}")
+    print(f"Number of jobs in the last 2 days: {len(recent_jobs)}")
+    # Get all jobs
     # all_jobs = db.get_all_jobs()
     # print(f"All jobs: {all_jobs}")
 
     # # Update a job
     # updated_job = db.update_job(created_job.id, {"title": "Updated IT Computer Vision Intern"})
     # print(f"Updated job: {updated_job}")
-
 
     # # Search for jobs
     # search_results = db.search_jobs(company="Norfolk", category="人工智能")
@@ -122,4 +144,3 @@ if __name__ == "__main__":
     # # Delete a job
     # deleted = db.delete_job(created_job.id)
     # print(f"Job deleted: {deleted}")
-    

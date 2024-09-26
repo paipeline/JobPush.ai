@@ -34,10 +34,10 @@ wechaty
     }
   })
   .on('login', async (user: ContactImpl) => {
-    console.log('\x1b[36m%s\x1b[0m', `🎉 User ${user} logged in successfully!`);
+    console.log('\x1b[36m%s\x1b[0m', `🎉 用户 ${user} 登录成功！`);
   })
   .on('message', async (message: Message) => {
-    console.log(`Received message: ${message.text()}`);
+    console.log(`收到消息: ${message.text()}`);
   });
 
 displayStartupBanner();
@@ -69,35 +69,29 @@ async function onLogin(user: Contact) {
   
   if (room) {
     console.log('找到了"测试群"');
-    const jobsDir = path.join(__dirname, 'jobs');
+    const jobsDir = path.join(__dirname, 'src/jobs');
     
-    // 记录已处理的文件
-    const processedFiles = new Set();
+    // 获取当前日期
+    const currentDate = new Date();
+    const formattedDate = `${currentDate.getFullYear()}-${String(currentDate.getMonth() + 1).padStart(2, '0')}-${String(currentDate.getDate()).padStart(2, '0')}`;
 
-    // 监视 jobs 目录
-    fs.watch(jobsDir, async (eventType, filename) => {
-      if (eventType === 'rename' && filename.startsWith('formatted_jobs_') && filename.endsWith('.txt')) {
-        const filePath = path.join(jobsDir, filename);
-        
-        // 检查文件是否存在（用于区分新增和删除）
-        if (fs.existsSync(filePath) && !processedFiles.has(filename)) {
-          try {
-            // 等待文件写入完成
-            await new Promise(resolve => setTimeout(resolve, 1000));
-            
-            const category = filename.split('_')[2]; // 提取类别名称
-            await sendJobUpdate(room, filePath, category);
-            
-            // 将文件标记为已处理
-            processedFiles.add(filename);
-          } catch (error) {
-            console.error('处理新文件失败:', error);
-          }
+    // 查找并发送当天的工作信息
+    fs.readdir(jobsDir, async (err, files) => {
+      if (err) {
+        console.error('读取目录失败:', err);
+        return;
+      }
+
+      for (const file of files) {
+        if (file.startsWith(`formatted_jobs_`) && file.endsWith(`${formattedDate}.txt`)) {
+          const filePath = path.join(jobsDir, file);
+          const category = file.split('_')[2]; // 提取类别名称
+          await sendJobUpdate(room, filePath, category);
         }
       }
     });
     
-    console.log(`正在监视目录: ${jobsDir}`);
+    console.log(`正在处理 ${formattedDate} 的工作信息`);
   } else {
     console.log('未找到"测试群"');
   }
